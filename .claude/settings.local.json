@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(curl -s \"https://vidabuena.ec/data/hospitals.json\" -o public/data/hospitals.json)",
+      "Bash(curl -s \"https://vidabuena.ec/data/tarifario.json\" -o public/data/tarifario.json)",
+      "Bash(npx vite *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(python3 *)",
+      "Bash(pkill -f \"vite\")",
+      "Bash(ipconfig getifaddr *)",
+      "Bash(awk '{print $1}')",
+      "Bash(npm run *)",
+      "Bash(npx serve *)",
+      "Bash(echo \"Server PID: $!\")",
+      "Bash(curl -s http://localhost:4173)",
+      "Bash(lt --port 4173)",
+      "Bash(lt --port 4173 --print-requests)",
+      "Bash(jobs -l)",
+      "Bash(pkill -f \"serve dist\")",
+      "Bash(pkill -f \"lt --port\")",
+      "Read(//tmp/**)",
+      "Bash(brew install *)",
+      "Bash(cloudflared tunnel *)",
+      "Bash(pkill -f \"cloudflared\")",
+      "Bash(claude usage *)"
+    ]
+  }
+}
