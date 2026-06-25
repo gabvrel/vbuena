@@ -1,0 +1,2867 @@
+{
+    "Ambulatorio": [
+  {
+    "id": 1,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 3,
+    "provider": "HOSPITAL MONTE SINAI",
+    "phone": "07-2885595 / 07-2814-813 / 07-370-2770 /07-370-0390",
+    "address": "Av. Miguel Cordero 6‑111 y Av. Solano, Cuenca, Azuay, Ecuador"
+  },
+  {
+    "id": 2,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 4,
+    "provider": "APROFE",
+    "phone": "(04) 6 009 600",
+    "address": "Juan José Flores 1‑38 y Huayna‑Cápac, Cuenca, Azuay, Ecuador"
+  },
+  {
+    "id": 4,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 4,
+    "provider": "CENTROS MEDICOS ESPECIALIZADOS CRUZ ROJA ECUATORIANA",
+    "phone": "0989002521 / 07-2447641 ext 165",
+    "address": "Av. Paseo de los Cañaris y Av. Viracochabamba, Cuenca, Azuay, Ecuador"
+  },
+  {
+    "id": 5,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 4,
+    "provider": "FISIO CENTER PEREZ",
+    "phone": "0984766612",
+    "address": "Pedro Álvarez Cabral y Av. Don Bosco, Cuenca, Azuay, Ecuador"
+  },
+  {
+    "id": 6,
+    "province": "AZUAY",
+    "city": "GUALACEO",
+    "level": 4,
+    "provider": "CENTROS MEDICOS ESPECIALIZADOS CRUZ ROJA ECUATORIANA",
+    "phone": "0981364906",
+    "address": "Av. Jaime [no data exacta], Gualaceo, Azuay, Ecuador (ubicación aproximada)"
+  },
+  {
+    "id": 7,
+    "province": "CARCHI",
+    "city": "TULCAN",
+    "level": 4,
+    "provider": "PRIVIMED",
+    "phone": "",
+    "address": "Av. Sucre y Chimborazo, al lado de Cooperativa de Ahorro y Crédito Tulcán Ltda., Tulcán, Carchi, Ecuador"
+  },
+  {
+    "id": 8,
+    "province": "CARCHI",
+    "city": "TULCAN",
+    "level": 4,
+    "provider": "AVANTMED",
+    "phone": "0968080807 / 1700282686",
+    "address": "Av. Sucre, Tulcán, Carchi, Ecuador"
+  },
+  {
+    "id": 9,
+    "province": "CHIMBORAZO",
+    "city": "RIOBAMBA",
+    "level": 4,
+    "provider": "PRIVIMED",
+    "phone": "",
+    "address": "Av. Unidad Nacional entre Uruguay y Bolivia, piso 3, frente a Edifika, Riobamba, Chimborazo, Ecuador"
+  },
+  {
+    "id": 10,
+    "province": "CHIMBORAZO",
+    "city": "RIOBAMBA",
+    "level": 4,
+    "provider": "CENTRO DE ESPECIALIDADES MEDICAS MEDICGAR",
+    "phone": "03-2399096 / 0984613496",
+    "address": "Calle Boyacá y Pedro de Alvarado (esquina detrás del colegio Isabel de Godin), Riobamba, Chimborazo, Ecuador"
+  },
+  {
+    "id": 11,
+    "province": "CHIMBORAZO",
+    "city": "RIOBAMBA",
+    "level": 4,
+    "provider": "CENTRO DE ESPECIALIDADES MEDICAS MEDLAB",
+    "phone": "(03) 2 821 721 / (03) 3 420 102",
+    "address": "Orozco y Los Sauces, junto a Farmacia Don Bosco, Riobamba, Chimborazo, Ecuador"
+  },
+   {
+    "id": 12,
+    "province": "EL ORO",
+    "city": "HUAQUILLAS",
+    "level": 4,
+    "provider": "NOSS MEDICAL CENTER S.A.S.",
+    "phone": "0984280015",
+    "address": "Guayas y Av. República, Huaquillas, El Oro, Ecuador"
+  },
+  {
+    "id": 13,
+    "province": "EL ORO",
+    "city": "MACHALA",
+    "level": 3,
+    "provider": "MIMEDIK",
+    "phone": "0962920333 / (07) 2924324 EXT 200",
+    "address": "Sucre 1116, Tarqui, Machala, El Oro, Ecuador"
+  },
+  {
+    "id": 14,
+    "province": "EL ORO",
+    "city": "MACHALA",
+    "level": 4,
+    "provider": "BIOCINESIS",
+    "phone": "0999127413 / 0999358992",
+    "address": "Calle Guayas y 12 ava Norte, junto a Farmacias Cruz Azul, Machala, El Oro, Ecuador"
+  },
+  {
+    "id": 15,
+    "province": "GALÁPAGOS",
+    "city": "SANTA CRUZ",
+    "level": 4,
+    "provider": "CENTROS MEDICOS ESPECIALIZADOS CRUZ ROJA ECUATORIANA - SANTA CRUZ",
+    "phone": "0961165704",
+    "address": "Calle Papallacta Oe 1‑66 entre Av. La Prensa y Av. 10 de Agosto, Santa Cruz, Galápagos, Ecuador"
+  },
+  {
+    "id": 16,
+    "province": "GUAYAS",
+    "city": "DAULE",
+    "level": 4,
+    "provider": "SALUD CONTIGO",
+    "phone": "(07) 2 935 774 / (07) 2 936 574",
+    "address": "Dirección distrital de Salud – Padre Aguirre y Sucre, Daule, Guayas, Ecuador"
+  },
+  {
+    "id": 17,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 2,
+    "provider": "VERIS",
+    "phone": "02 600 9600",
+    "address": "Av. Juan Tanca Marengo y Av. Agustín Freire Ycaza, Edificio Veris, Guayaquil, Guayas, Ecuador"
+  },
+  {
+    "id": 18,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "MEDIGLOBAL",
+    "phone": "0939108042",
+    "address": "Cdla. Kennedy Vieja, Calle 8va No. 111 y Av. San Jorge, Guayaquil, Guayas, Ecuador"
+  },
+  {
+    "id": 19,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "METRORED",
+    "phone": "02‑4003030",
+    "address": "Sede La Alborada: Av. Guillermo R. Pareja s/n y Av. José María Egas, Guayaquil, Guayas, Ecuador"
+  },
+  {
+    "id": 20,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 4,
+    "provider": "CENTRO MÉDICO INTEGRALIS",
+    "phone": "(593) 09 91045042",
+    "address": "Mucho Lote 2, Guayaquil 090107, Guayas, Ecuador"
+  },
+  {
+    "id": 21,
+    "province": "IMBABURA",
+    "city": "ATUNTAQUI",
+    "level": 4,
+    "provider": "PRIVIMED",
+    "phone": "",
+    "address": "Av. Julio Miguel Aguinaga 062 y Abdón Calderón, Atuntaqui, Imbabura, Ecuador"
+  },
+  {
+    "id": 22,
+    "province": "IMBABURA",
+    "city": "ATUNTAQUI",
+    "level": 4,
+    "provider": "CENTROS MEDICOS ESPECIALIZADOS CRUZ ROJA ECUATORIANA",
+    "phone": "0997428468",
+    "address": "Atuntaqui, Imbabura, Ecuador"
+  },
+  {
+    "id": 23,
+    "province": "IMBABURA",
+    "city": "COTACACHI",
+    "level": 4,
+    "provider": "PRIVIMED",
+    "phone": "",
+    "address": "Calle Pedro Moncayo e Imbabura, frente al restaurante La Vaca Gorda, Cotacachi, Imbabura, Ecuador"
+  },
+  {
+    "id": 24,
+    "province": "IMBABURA",
+    "city": "IBARRA",
+    "level": 3,
+    "provider": "CENTRO MEDICO DE ESPECIALIDADES CASA BLANCA",
+    "phone": "0990738887 / 062612809",
+    "address": "Av. José Mejía Lequerica N11-32 y Av. Cristóbal de Troya, Ibarra, Imbabura, Ecuador"
+  },
+  {
+    "id": 25,
+    "province": "IMBABURA",
+    "city": "IBARRA",
+    "level": 4,
+    "provider": "PRIVIMED",
+    "phone": "",
+    "address": "Av. Antonio José de Sucre y Teodoro Gómez, esquina, Ibarra, Imbabura, Ecuador"
+  },
+  {
+    "id": 26,
+    "province": "IMBABURA",
+    "city": "IBARRA",
+    "level": 4,
+    "provider": "ORBEMED",
+    "phone": "066001927 / 065000807",
+    "address": "Ibarra, Imbabura, Ecuador"
+  },
+  {
+    "id": 27,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 4,
+    "provider": "FISIOMED",
+    "phone": "(02) 3516740",
+    "address": "Av. Los Sauces 308 y Juan Francisco Bonilla, Loja, Ecuador"
+  },
+  {
+    "id": 28,
+    "province": "LOS RÍOS",
+    "city": "BABAHOYO",
+    "level": 3,
+    "provider": "MEDILINK",
+    "phone": "0993183975",
+    "address": "Babahoyo, Los Ríos, Ecuador"
+  },
+  {
+    "id": 29,
+    "province": "LOS RÍOS",
+    "city": "QUEVEDO",
+    "level": 4,
+    "provider": "CENTROS MEDICOS ESPECIALIZADOS CRUZ ROJA ECUATORIANA",
+    "phone": "0981460964",
+    "address": "Quevedo, Los Ríos, Ecuador"
+  },
+  {
+    "id": 30,
+    "province": "MANABÍ",
+    "city": "MANTA",
+    "level": 3,
+    "provider": "CENTRO DE ESPECIALIDADES ARBOLEDA",
+    "phone": "0995111622",
+    "address": "Calle 17 entre Av. 37 y 38, Manta, Manabí, Ecuador"
+  },
+  {
+    "id": 31,
+    "province": "MANABÍ",
+    "city": "MANTA",
+    "level": 3,
+    "provider": "SISTEMAS MEDICOS DE LA USFQ SIME",
+    "phone": "05 3700230 / 0997034743",
+    "address": null
+  },
+  {
+    "id": 32,
+    "province": "MANABÍ",
+    "city": "MANTA",
+    "level": 2,
+    "provider": "GASTROVITA",
+    "phone": "0987542963",
+    "address": null
+  },
+  {
+    "id": 33,
+    "province": "MANABÍ",
+    "city": "MANTA",
+    "level": 4,
+    "provider": "CENTROCEMES",
+    "phone": "0939634200",
+    "address": null
+  },
+  {
+    "id": 34,
+    "province": "MANABÍ",
+    "city": "MANTA",
+    "level": 4,
+    "provider": "ASISTANET",
+    "phone": "1800‑274782 / WhatsApp 0983070203",
+    "address": "Av. Flavio Reyes, Manta, Manabí, Ecuador"
+  },
+  {
+    "id": 35,
+    "province": "MANABÍ",
+    "city": "MANTA",
+    "level": 3,
+    "provider": "SERVICIOS AMBULATORIOS HOSPICOR",
+    "phone": "0998488954",
+    "address": null
+  },
+  {
+    "id": 36,
+    "province": "MANABÍ",
+    "city": "PORTOVIEJO",
+    "level": 4,
+    "provider": "CERID",
+    "phone": "04‑5120999 / 0985994786",
+    "address": null
+  },
+  {
+    "id": 37,
+    "province": "MANABÍ",
+    "city": "PORTOVIEJO",
+    "level": 4,
+    "provider": "CENTROS MEDICOS ESPECIALIZADOS CRUZ ROJA ECUATORIANA",
+    "phone": "0982521629 / 0991553747",
+    "address": null
+  },
+  {
+    "id": 38,
+    "province": "MORONA SANTIAGO",
+    "city": "MACAS",
+    "level": 4,
+    "provider": "CENTROS MEDICOS ESPECIALIZADOS CRUZ ROJA ECUATORIANA",
+    "phone": "(02) 258‑2482",
+    "address": null
+  },
+  {
+    "id": 39,
+    "province": "ORELLANA",
+    "city": "EL COCA",
+    "level": 3,
+    "provider": "SEGURILAB",
+    "phone": "0998996053",
+    "address": null
+  },
+  {
+    "id": 40,
+    "province": "ORELLANA",
+    "city": "EL COCA",
+    "level": 3,
+    "provider": "BIODIMED",
+    "phone": "1800070707 / 043727100",
+    "address": null
+  },
+  {
+    "id": 41,
+    "province": "PICHINCHA",
+    "city": "CAYAMBE",
+    "level": 4,
+    "provider": "CENTRO MEDICO CAMPBELL",
+    "phone": "0984724840 / (02) 23633552",
+    "address": "Rocafuerte Lote 62 y 29 de Septiembre, Cayambe, Pichincha, Ecuador"
+  },
+  {
+    "id": 42,
+    "province": "PICHINCHA",
+    "city": "CAYAMBE",
+    "level": 4,
+    "provider": "CENTROS MEDICOS ESPECIALIZADOS CRUZ ROJA ECUATORIANA",
+    "phone": "0981309891 / (02) 2447641 ext. 166",
+    "address": null
+  },
+  {
+    "id": 43,
+    "province": "PICHINCHA",
+    "city": "CUMBAYÁ",
+    "level": 3,
+    "provider": "PROVITAL SERVICIO INTEGRAL DE SALUD",
+    "phone": "(02) 5019400",
+    "address": "Polonia N31‑125 y Vancouver, Quito (Cumbayá office), Pichincha, Ecuador"
+  },
+  {
+    "id": 44,
+    "province": "PICHINCHA",
+    "city": "CUMBAYÁ",
+    "level": 3,
+    "provider": "SISTEMAS MEDICOS DE LA USFQ SIME",
+    "phone": "(02) 5019400",
+    "address": "Polonia N31‑125 y Vancouver, Quito (Cumbayá office), Pichincha, Ecuador"
+  },
+  {
+    "id": 48,
+    "province": "PICHINCHA",
+    "city": "LOS CHILLOS",
+    "level": 3,
+    "provider": "METRORED",
+    "phone": "02‑4003030",
+    "address": null
+  },
+  {
+    "id": 49,
+    "province": "PICHINCHA",
+    "city": "LOS CHILLOS",
+    "level": 3,
+    "provider": "SISTEMAS MEDICOS DE LA USFQ SIME",
+    "phone": "02‑2866401 / 0992717327",
+    "address": null
+  },
+  {
+    "id": 50,
+    "province": "PICHINCHA",
+    "city": "LOS CHILLOS",
+    "level": 4,
+    "provider": "NOSS MEDICAL CENTER S.A.S.",
+    "phone": "0995750403",
+    "address": null
+  },
+  {
+    "id": 51,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 1,
+    "provider": "HOSPITAL DE LOS VALLES",
+    "phone": "02-2977900 / 1800825537",
+    "address": "Av. Interoceánica km 12.5 y Av. Florencia, Cumbayá, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 52,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "CARDIOVASC S.A.",
+    "phone": "(05) 2 660 852",
+    "address": "Av. Mariana de Jesús OE7-02 y Nuño de Valderrama, Edificio CITIMED, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 53,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "VERIS",
+    "phone": "02 600 9600",
+    "address": "Av. 10 de Agosto n41-12, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 54,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "CENTRO PEDIATRICO INTEGRAL NARANJO CENPEIN",
+    "phone": "02-2928205 / 02-3513718 / 0995314484",
+    "address": "201 Nuño de Valderrama, Edificio CITIMED, piso 2, consultorio 201, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 55,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "SUPORTAMED - MAKROSE",
+    "phone": "(02) 2 668 482 / (02) 2 652 470",
+    "address": "Av. Mariana de Jesús OE7-02 y Nuño de Valderrama, Edificio CITIMED, Piso 8, Oficina 801, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 56,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "AXXIS GASTRO",
+    "phone": "02-3318081 / 02-3317983 / 02-3317945 / 02-3317923 / 02-3318141",
+    "address": "Av. 10 de Agosto N39‑155 y Diguja, Hospital Axxis (Torre 2, Piso 1), Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 57,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "AXXISCAN S.A.",
+    "phone": "02-3801800 / 1800462436",
+    "address": "Av. 10 de Agosto N39‑155 y Diguja, Planta Baja, Hospital Axxis, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 58,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CENTRO DE CIRUGIA VASCULAR PERIFERICA FALCONI & ASOCIADOS",
+    "phone": "0983312330",
+    "address": "Vicente Aguirre OE1‑96 y Av. 10 de Agosto, Instituto Cardiovascular Falconi Bldg, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 59,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CENTRO MEDICO DE ESPECIALIDADES CASA BLANCA",
+    "phone": "0990738887 / 022432222",
+    "address": null
+  },
+  {
+    "id": 60,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CENTRO MÉDICO DE ESPECIALIDADES MED-ES",
+    "phone": "0984898908",
+    "address": null
+  },
+   {
+    "id": 61,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CETCUS",
+    "phone": "0991489857",
+    "address": "Polonia N30‑15 y Av. Eloy Alfaro, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 62,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLÍNICA OFTALMOLÓGICA BOREAL",
+    "phone": "0983919401",
+    "address": "Av. 12 de Octubre N24‑739 y Av. Colón, Edif. Boreal Torre B, Piso 3, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 63,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLINICA SANCHO",
+    "phone": "022250324 / 0961587367",
+    "address": "Av. 6 de Diciembre N3402 y Eloy Alfaro, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 64,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLÍNICA DE UROLOGÍA",
+    "phone": "096 217 8889",
+    "address": "Suiza N33-49 y Eloy Alfaro"
+  },
+  {
+    "id": 65,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "SEGURILAB",
+    "phone": "(02) 394 7160",
+    "address": "Av Shyris Nº 43-69 y Tomas de Berlanga"
+  },
+  {
+    "id": 66,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "SILMAR",
+    "phone": "0998353095",
+    "address": "Quito, Italia N32-229 y Alemania"
+  },
+  {
+    "id": 67,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "BIODIMED",
+    "phone": "(02) 382 5940",
+    "address": "Av. Eloy Alfaro No 3367 y Suiza"
+  },
+  {
+    "id": 68,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "PETCI IMÁGENES",
+    "phone": "0999619165",
+    "address": "Quito, 9 de Octubre y Veintimilla"
+  },
+  {
+    "id": 69,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "FEMME SCAN",
+    "phone": "1800 462 436",
+    "address": "Av. 10 de Agosto N39-155 y Juan Diguja"
+  },
+  {
+    "id": 70,
+    "province": "PICHINCHA",
+    "city": "LOS CHILLOS",
+    "level": 3,
+    "provider": "VIVE MEDICAL VALLE",
+    "phone": "0979393288",
+    "address": "Av.Ilaló y de La Luz, vía al Tingo"
+  },
+  {
+    "id": 71,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLINIVISION CIA. LTDA.",
+    "phone": "(02) 3825450 EXT 1008-1012",
+    "address": "Gregorio Bobadilla N38‑109 y Av. Granda Centeno, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 72,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "COLMED",
+    "phone": "02‑2240666 / 0981922078",
+    "address": "Av. América y Vozandes, Edificio Kenzen Medical Center, Piso 7‑8, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 73,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CONSULTORIO MEDICO MEDEXPERT",
+    "phone": "0992444647",
+    "address": "El Batán E10‑96 y Av. 6 de Diciembre, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 74,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "LIFE AND HOPE S.A.",
+    "phone": "(593) 0983914860",
+    "address": "Av. Eloy Alfaro N29‑235, Edif. Fortune Plaza, Piso 5, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 75,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "MEDILINK - QUITO",
+    "phone": "0993183975",
+    "address": "Calle Rusia E9‑67 entre Av. Shyris y Eloy Alfaro, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 76,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "MEDIMAGENES CIA. LTDA.",
+    "phone": "022904964 / 0993107623",
+    "address": "Italia N30‑145 y Vancouver, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 77,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "MEDINUCLEAR",
+    "phone": "02‑2533461 / 0996200200",
+    "address": "Av. de la Prensa N59‑22 y Luis Tufiño, Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 78,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "METRORED",
+    "phone": "02-4003030",
+    "address": "Av. Amazonas N42‑88 y Tomás de Berlanga, Av. Río Amazonas N42‑88 (Plaza de Toros), Quito, Pichincha, Ecuador"
+  },
+  {
+    "id": 79,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "OLIVOS MEDICAL CENTER",
+    "phone": "0960511588",
+    "address": null
+  },
+  {
+    "id": 80,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "PROVITAL SERVICIO INTEGRAL DE SALUD - QUITO",
+    "phone": "(02) 5019400",
+    "address": null
+  },
+  {
+    "id": 81,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "NOVARIS CENTRO MEDICO",
+    "phone": "+593 984 290 259",
+    "address": "Pasaje los Ángeles y Alemania Edificio Da-Vinci"
+  },
+  {
+    "id": 82,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "VEO CLINICA VISUAL",
+    "phone": "0983271523",
+    "address": null
+  },
+  {
+    "id": 83,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "ZER HEALTH",
+    "phone": "(02) 6014352 / (02) 2533461 / (02) 2598795",
+    "address": null
+  },
+  {
+    "id": 84,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "ELECTRODIAGNOSIS MEDICAL GROUP",
+    "phone": "0998081363",
+    "address": null
+  },
+  {
+    "id": 85,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 4,
+    "provider": "PRIVIMED",
+    "phone": null,
+    "address": null
+  },
+  {
+    "id": 86,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 4,
+    "provider": "GLOBAL WORLD",
+    "phone": "09880274406",
+    "address": null
+  },
+  {
+    "id": 87,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 4,
+    "provider": "SMC MEDICINA & ESTETICA",
+    "phone": "0995651114",
+    "address": null
+  },
+  {
+    "id": 88,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 4,
+    "provider": "CID MED CENTRO DE ESPECIALIDADES",
+    "phone": "0995933030",
+    "address": null
+  },
+  {
+    "id": 89,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 4,
+    "provider": "CLINICA DE OJOS VISALUD",
+    "phone": "(02) 2902893",
+    "address": null
+  },
+  {
+    "id": 90,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 4,
+    "provider": "PROENDOMED",
+    "phone": "02-3880100",
+    "address": null
+  },
+  {
+    "id": 91,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 2,
+    "provider": "VERIS - CUENCA",
+    "phone": "(07) 281-7153",
+    "address": "C.C Los Nogales Local 1 A"
+  },
+  {
+    "id": 92,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 3,
+    "provider": "CLINICA LA PAZ",
+    "phone": "(07) 280-7046",
+    "address": "Av. Viracochabamba 2-84 y Guapondelig, Cuenca 010104"
+  },
+  {
+    "id": 93,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 3,
+    "provider": "HOSPITAL SAN JUAN DE DIOS",
+    "phone": "(07) 412-5046",
+    "address": "Manuel J Calle 1-59 y Av. Paucarbamba"
+  },
+  {
+    "id": 94,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 3,
+    "provider": "HOSPITAL DEL RIO",
+    "phone": "(07) 245-9553",
+    "address": "Av. 24 de Mayo y Av. de las Américas"
+  },
+  {
+    "id": 95,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 4,
+    "provider": "CLÍNICA HOSPITAL SAN JOSÉ",
+    "phone": "(07) 258-4072",
+    "address": "Juan De Salinas Y Sucre, Loja, Ecuador"
+  },
+  {
+    "id": 96,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "MEDIHOSPITAL",
+    "phone": "(07) 395-0500",
+    "address": "Av. Eugenio Espejo y Shuaras, Barrio El Dorado"
+  },
+  {
+    "id": 97,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "CLINICA SAN PABLO",
+    "phone": "(07) 254-6444",
+    "address": "Av. Pío Jaramillo y Thomas Alva Edison esq. (Sector La Argelia)"
+  },
+  {
+    "id": 98,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "HOSPITAL SAN GREGORIO",
+    "phone": "(07) 272-2090",
+    "address": "Calle Ambato 07-05 y Latacunga"
+  },
+  {
+    "id": 99,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "CLINICA SANTA INES",
+    "phone": "(07) 395-2000",
+    "address": "Leopoldo Palacios y Juan José Peña"
+  },
+  {
+    "id": 100,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLINICA DE LA MUJER",
+    "phone": " (02) 245-8000",
+    "address": "Av. Río Amazonas N39-216 y Gaspar de Villarroel."
+  }
+,
+  {
+    "id": 101,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL DE ESPECIALIDADES SAN BARTOLO",
+    "phone": "0992745224",
+    "address": "Av. General Urdaneta y Mira"
+  }
+,
+  {
+    "id": 102,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL PADRE JOSE CAROLLO",
+    "phone": " (02) 263-6660",
+    "address": "Av. Rumichaca S33-10 y Matilde Álvarez"
+  }
+,
+  {
+    "id": 103,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "HOSPITAL VOZANDES QUITO HVQ S.A.",
+    "phone": " (02) 400-7100",
+    "address": "Villalengua Oe2-37 y Av. 10 de Agosto"
+  }
+,
+  {
+    "id": 104,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "NORTHOSPITAL",
+    "phone": "0964224444",
+    "address": "Av. de la Prensa N58-154 y Vaca de Castro"
+  }
+,
+  {
+    "id": 105,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "EMEDICENTER",
+    "phone": "0999963412",
+    "address": "Saraguro N61-71 y Av. Del Maestro"
+  }
+,
+  {
+    "id": 106,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL DEL DIA SULAB",
+    "phone": "0984873694",
+    "address": "Huachi n64 46 y José Figueroa, Sector Quito Norte"
+  }
+,
+  {
+    "id": 107,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "QUITO MEDICAL CENTER",
+    "phone": " (02) 224-7429",
+    "address": "Gaspar Cañero E10-114 y Av. 6 de Diciembre"
+  }
+,
+  {
+    "id": 108,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "RV LABORATORIOS",
+    "phone": "0995234242",
+    "address": "Javier Ascazubi E1-16 y Av. 10 de Agosto"
+  }
+,
+  {
+    "id": 109,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "SISTEMAS MEDICOS DE LA USFQ SIME",
+    "phone": " (02) 501 9400",
+    "address": "Av. Amazonas N36-152 Y Naciones Unidas"
+  }
+,
+  {
+    "id": 110,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "NOVACLINICA SANTA CECILIA",
+    "phone":  " (02) 394-9000",
+    "address": "Ignacio de Veintimilla E1-71 y Av. 10 de Agosto"
+  }
+,
+  {
+    "id": 111,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLINICA DE ESPECIALIDADES TUMBACO",
+    "phone":  " (02) 237-4603",
+    "address": "S1- y, Gaspar de Carvajal & Fray Gonzalo de Vera"
+  }
+,
+  {
+    "id": 112,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "MEDITROPOLI",
+    "phone":  " (02) 224-5672",
+    "address": "Av. Mariana de Jesús Oe-8"
+  }
+,
+  {
+    "id": 113,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL AMERICANO",
+    "phone":  " 096 280 6903",
+    "address": "Av. Mariana de Jesús Oe3-161 y América. Sector Norte de Quito"
+  }
+,
+  {
+    "id": 114,
+    "province": "PICHINCHA",
+    "city": "LOS CHILLOS",
+    "level": 3,
+    "provider": "CLINICA SAN RAFAEL",
+    "phone":  " (02) 382-9500",
+    "address": "Avenida General Enriquez, e, Sangolquí"
+  },
+  {
+    "id": 115,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "CLINICA SAN VICENTE",
+    "phone":  "0987283333",
+    "address": "Pascuales, Pasaje salitre y General Leonidas Plaza"
+  },
+  {
+    "id": 116,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "MEDILINK",
+    "phone":  "(02) 5505052",
+    "address": "Av. Rodolfo Baquerizo Nazur, C.C. Gran Albocentro"
+  } ,
+  {
+    "id": 117,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "METRORED",
+    "phone":  "(02) 7200 900",
+    "address": "Av. Francisco de Orellana S-34"
+  } ,
+  {
+    "id": 118,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "SEGURILAB",
+    "phone":  "0958693769",
+    "address": "Urdesa Central, 225 Av. Jorge Pérez Concha"
+  },
+  {
+    "id": 119,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "REVIMEDICAL",
+    "phone":  "0962680060",
+    "address": "Durán Cooperativa 5 de Junio Mz B Solar 8"
+  },
+  {
+    "id": 120,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "TUMEDISALUD",
+    "phone":  "0983250394",
+    "address": "Av. Francisco de Orellana 120, Mall de l Río"
+  },
+  {
+    "id": 121,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "BIODIMED",
+    "phone":  "(04) 372-7100",
+    "address": "Av. Dr. Jorge Perez Concha y Ébanos"
+  },
+  {
+    "id": 122,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "ULTRALAB",
+    "phone":  "0968393596",
+    "address": "Av. Francisco de Orellana, CC La Gran Manzana, local 56"
+  },
+  {
+    "id": 123,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "CLINICA REALMEDIC CENTRO MEDICO QUIRURJICO",
+    "phone":  "0995484541",
+    "address": "Av. Benjamín Rosales, Cdla. Santa Leonor Mz. 5 solar 16"
+  },
+  {
+    "id": 124,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "CLÍNICA ALBORADA",
+    "phone":  "(04) 227-3400",
+    "address": "Mz. 737, Solar 5, 6to Retorno 17 N-E- Quilanga"
+  },
+  {
+    "id": 125,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "SURHOSPITAL",
+    "phone":  "(04) 259-0670",
+    "address": "José Mascote entre Cap. Nájera y Huancavilca"
+  },
+  {
+    "id": 126,
+    "province": "TUNGURAHUA",
+    "city": "AMBATO",
+    "level": 3,
+    "provider": "CENTRO MEDICO REVITA",
+    "phone":  "0988830400",
+    "address": "Av. Los Guaytambos 03252 y Chirimoyas"
+  },
+  {
+    "id": 127,
+    "province": "TUNGURAHUA",
+    "city": "AMBATO",
+    "level": 3,
+    "provider": "HOSPITAL DE ESPECIALIDADES CREHVITAL",
+    "phone":  "0979224167",
+    "address": "Calle José Robalino y Pedro Vásconez"
+  },
+  {
+    "id": 128,
+    "province": "COTOPAXI",
+    "city": "LATACUNGA",
+    "level": 3,
+    "provider": "HOSPITAL SAN FRANCISCO DE ASIS",
+    "phone":  "(03) 281-3384",
+    "address": "Fernando Sánchez de Orellana 11-37 y Av. Rumiñahui"
+  },
+  {
+    "id": 129,
+    "province": "COTOPAXI",
+    "city": "LATACUNGA",
+    "level": 3,
+    "provider": "ONEMEDIC",
+    "phone":  "0999003133",
+    "address": "Calle Belisario Quevedo, y, Latacunga"
+  },
+  {
+    "id": 130,
+    "province": "COTOPAXI",
+    "city": "LATACUNGA",
+    "level": 3,
+    "provider": "CLINICA PROVIDA",
+    "phone":  " 0990573564",
+    "address": "San Agustín, calle Márquez de Maenza y Sánchez de Orellana."
+  },
+  {
+    "id": 131,
+    "province": "SUCUMBIOS",
+    "city": "LAGO AGRIO",
+    "level": 3,
+    "provider": "CENTRO DE ESPECIALIDADES EMA",
+    "phone":  "0964054054",
+    "address": "Progreso, y, Nueva Loja"
+  },
+  {
+    "id": 132,
+    "province": "SUCUMBIOS",
+    "city": "SHUSHUFINDI",
+    "level": 3,
+    "provider": "CENTRO MEDICO FREITES",
+    "phone":  "0961336226",
+    "address": "Barrio La Unión vía Aguarico 3 y Siona"
+  },
+  {
+    "id": 133,
+    "province": "SANTA ELENA",
+    "city": "LA LIBERTA",
+    "level": 3,
+    "provider": "CLINICA DE LA VISION FIDEZA",
+    "phone":  "0992220025",
+    "address": "23 Av. Eleodoro Solorzano"
+  },
+  {
+    "id": 134,
+    "province": "ZAMORA CHINCHIPE",
+    "city": "ZAMORA",
+    "level": 3,
+    "provider": "SEGURILAB",
+    "phone":  "0998996053",
+    "address": "Eugenio Espejo, Los Encuentros"
+  },
+  {
+    "id": 135,
+    "province": "ZAMORA CHINCHIPE",
+    "city": "EL PANGUI",
+    "level": 3,
+    "provider": "SEGURILAB",
+    "phone":  "(02) 3947160",
+    "address": "Av. Policia Nacional, y, El Pangui"
+  },
+  {
+    "id": 136,
+    "province": "IMBABURA",
+    "city": "IBARRA",
+    "level": 3,
+    "provider": "HOSPITAL CLINICA METROPOLITANA - IBARRA",
+    "phone":  "(06) 299-5530",
+    "address": "Av. Galo Plaza 17-04 y Calle S/N, Ibarra, Ecuador."
+  },
+  {
+    "id": 137,
+    "province": "IMBABURA",
+    "city": "OTAVALO",
+    "level": 3,
+    "provider": "MEDICENTER",
+    "phone":  "0995544435",
+    "address": "C. Antonio José de Sucre 11-35 y, Otavalo"
+  },
+  {
+    "id": 138,
+    "province": "IMBABURA",
+    "city": "OTAVALO",
+    "level": 3,
+    "provider": "HOSPITAL SAN JOSE",
+    "phone":  "(06) 292-6637",
+    "address": "Ecuador. 6, Piedrahita, C. Antonio José de Sucre 10 y, Otavalo"
+  },
+  {
+    "id": 139,
+    "province": "MANABÍ",
+    "city": "PEDERNALES",
+    "level": 3,
+    "provider": "CLINICA ARBOLEDA",
+    "phone":  "0995111622",
+    "address": "Via Chamanga, Av. Plaza Acosta, Pedernales"
+  },
+  {
+    "id": 140,
+    "province": "MANABÍ",
+    "city": "MANTA",
+    "level": 3,
+    "provider": "HISTORED",
+    "phone":  "0999399065",
+    "address": "Avenida 24 entre calle 10 y, Av. 11, Manta"
+  },
+  {
+    "id": 140,
+    "province": "MANABÍ",
+    "city": "MANTA",
+    "level": 3,
+    "provider": "MULTIMEDICAL",
+    "phone":  "0998258646",
+    "address": "Av. 102 &, Manta 130204"
+  },
+  {
+    "id": 141,
+    "province": "MANABÍ",
+    "city": "MANTA",
+    "level": 2,
+    "provider": "DRA. DENISSE ANDRADE (MEDICO GENERAL)",
+    "phone":  "0999923628",
+    "address": "TORRE UMIÑAMED, Vía a Barbasquillo Calle 33, 2do. piso, Consultorio 214"
+  },
+  {
+    "id": 142,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 2,
+    "provider": "GASTROUNIDAD",
+    "phone":  "(04) 501-5620",
+    "address": "Av. Francisco Boloña 717"
+  },
+  {
+    "id": 143,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 2,
+    "provider": "LABORATORIOS ALCIVAR",
+    "phone":  "(04) 371-1980",
+    "address": "Condominio Ceibos Center, Av. del Bombero"
+  },
+  {
+    "id": 144,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 2,
+    "provider": "GASTROMUÑOZ",
+    "phone":  "099 960 5614",
+    "address": "Azuay 601"
+  },
+  {
+    "id": 145,
+    "province": "TUNGURAHUA",
+    "city": "AMBATO",
+    "level": 3,
+    "provider": "CREAMEDICAL IMAGEN CENTER",
+    "phone":  "0982258666",
+    "address": "Simón Bolívar 9-17 y Fernandez, Ambato, Ecuador"
+  },
+  {
+    "id": 144,
+    "province": "IMBABURA",
+    "city": "OTAVALO",
+    "level": 3,
+    "provider": "CENTRO INTEGRAL DE SALUD OTAVALO",
+    "phone":  "0969059908",
+    "address": "Calle Ramón Roca y García Moreno esquina"
+  },
+  {
+    "id": 145,
+    "province": "PASTAZA",
+    "city": "PUYO",
+    "level": 2,
+    "provider": "GADYTRA",
+    "phone":  "0983166093",
+    "address": "Calle Rio Copataza y Calle Indillama"
+  },
+  {
+    "id": 146,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "CENTRO ONCOLOGICO GENESIS MED",
+    "phone":  " 0987188606",
+    "address": "Martín Utreras y Mariana de Jesús N31-310"
+  },
+  {
+    "id": 147,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "CLINICA SANTA LUCIA",
+    "phone":  "(02)550-5075",
+    "address": "Suiza 209, Y, Av. Eloy Alfaro N33-49"
+  },
+  {
+    "id": 148,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "A&M SALUD INFANTIL (PEDIATRA)",
+    "phone":  "999005054",
+    "address": "Av. Francisco de Izazaga y Pablo del Solar. N45-212"
+  },
+  {
+    "id": 149,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "CLINICA CITIMED",
+    "phone":  "(02)351-5101",
+    "address": "Av. Mariana de Jesús OE7- O2 Y Nuño de Valderrama, Quito, Ecuador"
+  },
+  {
+    "id": 150,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "AXXIS HOSPITAL",
+    "phone":  "02-3980100",
+    "address": " Hospital, Av. 10 de Agosto 39-155 y Diguja, Sector la Y, Edificio Axxis"
+  },
+  {
+    "id": 151,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL PADRE JOSE CAROLLO UN CANTO A LA VIDA",
+    "phone":  "(02)263-6660",
+    "address": "Av. Rumichaca S33-10 y Matilde Álvarez"
+  },
+  {
+    "id": 152,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL VOZANDES QUITO HVQ S A ",
+    "phone":  "(02)400-7100",
+    "address": "Villalengua Oe2-37 y Av. 10 de Agosto"
+  },
+  {
+    "id": 153,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CORPOSANO",
+    "phone":  "0994017682",
+    "address": "Mariano Reyes #158 y Pedro de Alfaro (Atrás de parrilladas El Rincón Gaucho)"
+  },
+  {
+    "id": 154,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL ALIANZA DEL ECUADOR",
+    "phone":  "(02)393-2450",
+    "address": "Francisco Alava Oe6-64 y San Gabriel, Quito 170147"
+  },
+  {
+    "id": 155,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "ALPHA IMAGEN Y DIAGNOSTICO",
+    "phone":  "(02)292-7063",
+    "address": "Edificio Solemni, Alemania N30-58 y Planta Baja, Av. Eloy Alfaro, Quito 170102"
+  },
+  {
+    "id": 156,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "MEDICVALLE",
+    "phone":  "0962526540",
+    "address": "Av. Gral. Rumiñahui"
+  },
+  {
+    "id": 157,
+    "province": "MANABI",
+    "city": "MANTA",
+    "level": 3,
+    "provider": "MANTA HOSPITAL CENTER ",
+    "phone":  "(05)259-0420",
+    "address": "Calle 16B 12, Manta 130213"
+  },
+  {
+    "id": 158,
+    "province": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "city": "Santo Domingo de los Colorados",
+    "level": 3,
+    "provider": "HOSPITAL GENERAL CLINICA SANTIAGO",
+    "phone":  "(02)383-6370",
+    "address": "Av Quito 118 y Oranzonas. Santo Domingo de los Tsáchilas"
+  },
+  {
+    "id": 159,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "HOSPITAL CLÍNICA SAN AGUSTIN HCSA",
+    "phone":  "(07)257-0314",
+    "address": "18 de noviembre 207-32y Azuay"
+  },
+  {
+    "id": 160,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "MEDICAL SCAN",
+    "phone":  "0963262736",
+    "address": "Versalles N21-17"
+  },
+  {
+    "id": 161,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "CLINICA PASTEUR",
+    "phone":  "02-2-992-400",
+    "address": "Av. Eloy Alfaro N29-248 e Italia"
+  },
+  {
+    "id": 162,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "BEST CARE",
+    "phone":  "099 823 7940",
+    "address": "Av. Shyris N36-188. Edificio Shyris Park 5to piso.- Oficina 507, Quito, Ecuador"
+  },
+  {
+    "id": 163,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CENTRO DE DIAGNOSTICO CEEDA",
+    "phone":  "099 823 7940",
+    "address": "Av. Shyris N36-188. Edificio Shyris Park 5to piso.- Oficina 507, Quito, Ecuador"
+  },
+  {
+    "id": 164,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "HOSPITAL SANTA GEMA",
+    "phone":  "043729320",
+    "address": "Pedro Pablo Gomez Tama 130 y, Guayaquil 090314"
+  },
+  {
+    "id": 165,
+    "province": "IMBABURA",
+    "city": "IBARRA",
+    "level": 3,
+    "provider": "MEDICENTER",
+    "phone":  "0995544435",
+    "address": "C. Antonio José de Sucre 11-35 y, Otavalo 100201"
+  },
+  {
+    "id": 166,
+    "province": "IMBABURA",
+    "city": "ATUNTAQUI",
+    "level": 3,
+    "provider": "MEDICENTER",
+    "phone":  "0962609499",
+    "address": "Perez Muñoz 1133, Atuntaqui 100201"
+  },
+    {
+        "id": 167,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 1,
+      "provider": "CLINICA KENNEDY",
+      "phone": "(02) 515 1444",
+      "address": "Av. del Periodista y Callejón 11-A, N.O Kennedy"
+    },
+    {
+        "id": 168,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "MEDIKAL TRACK NORTE",
+      "phone": "022240852",
+      "address": "Av. 10 de Agosto 39-155, Quito 170521"
+    },
+    {
+        "id": 169,
+      "province": "PICHINCHA",
+      "city": "CUMBAYÁ",
+      "level": 3,
+      "provider": "MEDIKAL TRACK CUMBAYA",
+      "phone": "022378998",
+      "address": "Av. Interoceánica Km 12 ½ y Edificio de Especialidades Médicas, consultorios, Av. Florencia 124 - 125, Quito 170902"
+    },
+    {
+        "id": 170,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "Dr. Marco Albuja Centros Médicos Quito",
+      "phone": "0995000960",
+      "address": "Av. Río Amazonas N44-32 Y, Quito 170138"
+    },
+    {
+        "id": 171,
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "level": 3,
+      "provider": "DRA. MAITE DEPREEUW",
+      "phone": "0962380585",
+      "address": "4X5F+M82, Av Ordóñez Lasso 415y, Cuenca 026709"
+    },
+    {
+        "id": 172,
+      "province": "MANABI",
+      "city": "PORTOVIEJO",
+      "level": 3,
+      "provider": "DRA. SASKIA MENDOZA - GINECOLOGA OBSTETRA",
+      "phone": "0992732480",
+      "address": "Centro Medico Los Ceibos, Av. Reales Tamarindos, Portoviejo 130102"
+    },
+    {
+        "id": 173,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "CEEDA CENTRO DE ESTUDIOS DE ENDOSCOPIA DIGESTIVA AVANZADA",
+      "phone": "0995294157",
+      "address": "RG45+QM9, Av. Eloy Alfaro, Quito 170519"
+    },
+    {
+        "id": 174,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "MEDICTROPOLI",
+      "phone": "02-392-2730",
+      "address": "José Plácido Caamaño & Juan Montalvo"
+    },
+    {
+        "id": 175,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "MEDICAL TRACK NORTE",
+      "phone": "02-2-240-852 / 02-3-980-100",
+      "address": "Av. 10 de Agosto N39-155 y Juan Diguja. Axxis Hospital 1er piso."
+    },
+    {
+        "id": 176,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "MEDICAL TRACK SUR",
+      "phone": "098-621-7528",
+      "address": "Av. Maldonado S/N y Pujili esq. diagonal a la parada de la ecovía Pujilí."
+    },
+    {
+        "id": 177,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "MEDICAL TRACK CUMBAYA",
+      "phone": "02-2-378-998 / 02-6-009-225 / 093-964-1286",
+      "address": "Av. Interoceánica Km 12 ½ y Calle B, Edif. Especialidades Médicas. Local 1."
+    },
+    {
+        "id": 178,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "MEDICAL TRACK LOS CHILLOS",
+      "phone": "02-3-922-104 / 098-419-6700",
+      "address": "Av. San Juan de Dios y Calle de las Playas; Urbanización Playa Chica 1."
+    },
+    {
+        "id": 179,
+      "province": "LOJA",
+      "city": "LOJA",
+      "level": 3,
+      "provider": "CLINICA DE ESPECIALIDADES MOGROVEJO",
+      "phone": "099-590-2693",
+      "address": "18 de Noviembre entre Lourdes y Catacocha"
+    },
+    {
+        "id": 180,
+      "province": "EL ORO",
+      "city": "MACHALA",
+      "level": 3,
+      "provider": "CARDIOMEDIC",
+      "phone": "099-552-7355 / 099-519-9984",
+      "address": "Tarqui entre Bolivar y Pichincha (Debajo del Ministerio de Trabajo)"
+    },
+    {
+        "id": 181,
+      "province": "EL ORO",
+      "city": "MACHALA",
+      "level": 3,
+      "provider": "TRAUMAHOSPITAL",
+      "phone": "097-976-9244",
+      "address": "P3P4+C82, Av. Circunvalación Nte., Machala"
+    },
+  {
+    "id": 182,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 4,
+    "provider": "CERID",
+    "phone": "04 5120999",
+    "address": "Cdla. Atarazana, frente al Consejo Electoral del Guayas"
+  },
+  {
+    "id": 183,
+    "province": "IMBABURA",
+    "city": "IBARRA",
+    "level": 4,
+    "provider": "NOVA CLINICA MODERNA",
+    "phone": "(06) 5004040",
+    "address": "Víctor Gómez Jurado 5-132 y Avenida Mariano Acosta"
+  },
+  {
+    "id": 184,
+    "province": "MANABI",
+    "city": "PORTOVIEJO",
+    "level": 4,
+    "provider": "PORTOVIEJO MEDICAL CLINIC",
+    "phone": "(05)-2441-778 / 098-910-2021",
+    "address": "Portoviejo, Vía Crucita kilómetro 1 1/2, junto al comando de la Policía Nacional"
+  },
+  {
+    "id": 185,
+    "province": "CARCHI",
+    "city": "TULCAN",
+    "level": 4,
+    "provider": "CESMED",
+    "phone": "(062) 985-931 / 986-771",
+    "address": "Av. San Francisco y Uruguay esquina, Tulcán - Ecuador"
+  },
+  {
+        "id": 186,
+      "province": "SANTO DOMINGO DE LOS TSÁCHILAS",
+      "city": "Santo Domingo de los Colorados",
+      "level": 4,
+      "provider": "HOSPITAL GENERAL CLINICA ARAUJO",
+      "phone": "098 023 2876",
+      "address": "Av. Tsáchila y Río Zamora, Santo Domingo de los Colorados, Ecuador"
+  },
+  {
+        "id": 187,
+      "province": "MANABI",
+      "city": "SAN VICENTE",
+      "level": 4,
+      "provider": "HOSPITAL BASICO CLINICA SAMARI",
+      "phone": "0981668629",
+      "address": "Calle Francisco Lozano y Manabí, San Vicente, Ecuador"
+  },
+  {
+        "id": 188,
+      "province": "SANTA ELENA",
+      "city": "SALINAS",
+      "level": 4,
+      "provider": "HOSPITAL GENERAL CLINICA GRANADOS",
+      "phone": "(04) 277-5576",
+      "address": "Calle 5ta E / Av 14 y 18. Cdla. Santa Paula Salinas, Santa Elena"
+  },
+  {
+        "id": 189,
+      "province": "SANTA ELENA",
+      "city": "SALINAS",
+      "level": 4,
+      "provider": "CLINICA LOJA",
+      "phone": "0990581804",
+      "address": "Av. Puerto Lucia y callejon 8, La Libertad, Santa Elena, Ecuador"
+  },
+  {
+        "id": 190,
+      "province": "ESMERALDAS",
+      "city": "QUININDE",
+      "level": 4,
+      "provider": "LABORATORIOS SAN AGUSTIN",
+      "phone": "62738238",
+      "address": "Av. 5 de Agosto y Cipriano Quiñonez diagonal al Hospital Alberto Bufoni Quinindé, Esmeraldas, Ecuador"
+  },
+  {
+        "id": 191,
+      "province": "LOS RIOS",
+      "city": "QUEVEDO",
+      "level": 4,
+      "provider": "HOSPITAL BASICO REVELO GRAY",
+      "phone": "0981453298 / 052753911",
+      "address": "Av. June Guzmán de Cortez & calle 14va, Quevedo."
+  },
+  {
+        "id": 192,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO DE ESPECIALIDADES MEDICO VACARI",
+      "phone": "0999880115",
+      "address": "Av. Isidro Ayora y Pasaje Quilotoa, Quito, Ecuador"
+  },
+  {
+        "id": 193,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO MEDICO APROFE",
+      "phone": "0990897798",
+      "address": "Giacomo Rocca N 33-155 y José Bosmediano - Quito - Ecuador"
+  },
+  {
+        "id": 194,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "AVANTMED",
+      "phone": "0963166668",
+      "address": "Calle Abdón Calderón Muñoz y Av. de los Shyris."
+  },
+  {
+        "id": 195,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA PROFAMILIA",
+      "phone": "(593) (2) 2645159 / 2645160",
+      "address": "Jacinto Collahuazo S9-445 y Quitus (Junto al Parque La Magdalena)"
+  },
+  {
+        "id": 196,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "VITAL IMAGENES",
+      "phone": "0984534980",
+      "address": "Valle de los Chillos; Av Ilalo y los Cisnes; Plaza Ilalo, Locales 1 y 2, Quito, Ecuador"
+  },
+  {
+        "id": 197,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA INTERNACIONAL",
+      "phone": "+593 2 600 2230",
+      "address": "Av. América N32-82 y Atahualpa, Quito, Ecuador"
+  },
+  {
+        "id": 198,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "RADIOLOGOS ASOCIADOS",
+      "phone": "+593 98 672 2956",
+      "address": "Av. Pérez Guerrero OE3-31 y Versalles Quito, Ecuador"
+  },
+  {
+        "id": 199,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO MEDICO PRAXMED - EL BATAN",
+      "phone": "02-373-2903",
+      "address": "Gregorio Munga N3-12 y Portete."
+  },
+  {
+        "id": 200,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO MEDICO PRAXMED - CAROLINA",
+      "phone": "02-373-2903",
+      "address": "Iñaquito y José Padilla."
+  },
+  {
+        "id": 201,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO MEDICO PRAXMED - VILLAFLORA",
+      "phone": "02-373-2903",
+      "address": "Rodrigo Núñez de Balboa."
+  },
+  {
+        "id": 202,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO MEDICO PRAXMED - VALLES",
+      "phone": "02-373-2903",
+      "address": "Av. General Rumiñahui, Centro Comercial La Fontana."
+  },
+  {
+        "id": 201,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 4,
+      "provider": "CENTRO MEDICO PRAXMED - URDESA",
+      "phone": "02-373-2903",
+      "address": "Avda. Jorge Pérez Concha (Circunvalación Sur)."
+  },
+  {
+        "id": 202,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 4,
+      "provider": "CENTRO MEDICO PRAXMED - GARZOTA",
+      "phone": "02-373-2903",
+      "address": "Av. Hermano Miguel mz. 117 solar no. 9."
+  },
+  {
+        "id": 202,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO MEDICO PRAXMED - VENTURA",
+      "phone": "02-373-2903",
+      "address": "Av. Interoceanica y Av. Oswaldo Guayasamin."
+  },
+  {
+        "id": 203,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO MEDICO PRAXMED - CORUÑA",
+      "phone": "02-373-2903",
+      "address": "Av. La Coruña, 2736 Edificio La Moraleja."
+  },
+  {
+        "id": 204,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO MEDICO CONSESALUD",
+      "phone": "0987721714",
+      "address": "Av. Juan de Ascaray 374 y Av. Amazonas, sector Plaza de Toros"
+  },
+  {
+        "id": 205,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CIDO CENTER",
+      "phone": "02-2452501 / 02-2436786",
+      "address": "Av. de la República y Av. 10 de Agosto E1-41, frente al parque de Las Niñas del Florón."
+  },
+  {
+        "id": 206,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO MEDICO VIDA SUR",
+      "phone": "0995953725",
+      "address": "Núñez de Balboa Oe1-29 y Francisco Gómez , Sector la Villaflora., Quito, Ecuador"
+  },
+  {
+        "id": 207,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "FISIOBALANCE",
+      "phone": "099-831-2285",
+      "address": "Clínica Galenus, en la Av. Calle París N43-212 y Av. Río Coca."
+  },
+  {
+        "id": 208,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "SALUD INTEGRAL",
+      "phone": "0995701012",
+      "address": "Antonio Ruiz N81-104 y Pedro de Frutos, Quito, Ecuador"
+  },
+  {
+        "id": 209,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTRO DE VARICES Y ULCERAS DR. MARIO ORTEGA",
+      "phone": "0999161990",
+      "address": "Edif Solemni, Alemania 30-58 y, Av. Eloy Alfaro 9-10, Quito"
+  },
+  {
+        "id": 210,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "REHABILITAR S.A.",
+      "phone": "0999761111",
+      "address": "Martín de Utreras N31-256 y Av. Mariana de Jesús."
+  },
+  {
+        "id": 211,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "TOMO ALPHA",
+      "phone": "(02)292-7063",
+      "address": "Edificio Solemni, Alemania N30-58 y Planta Baja, Av. Eloy Alfaro, Quito."
+  },
+  {
+        "id": 212,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENDIAVIA CIA. LTDA.",
+      "phone": "(02)381-4250",
+      "address": "Av. 6 de Diciembre N40-34 y Avenida Gaspar de Villaroel."
+  },
+  {
+        "id": 213,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "VITAL CLUB ",
+      "phone": "0983001000",
+      "address": "9 de Agosto entre Carchi y Cacha, en Calderón"
+  },
+  {
+        "id": 214,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "ASISTANET NORTE",
+      "phone": "0983070203",
+      "address": " Av. 6 de Diciembre N33-42 e Ignacio Bossano, en el Edificio Titanium"
+  },
+  {
+        "id": 215,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CENTROS MEDICOS ESPECIALIZADOS CRUZ ROJA ECUATORIANA",
+      "phone": "0980972074",
+      "address": "Calle Papallacta Oe 1-66 entre Av. La Prensa y Av. 10 de Agosto, sector La Y"
+  },
+  {
+        "id": 216,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "OTORRINO HEALTH CENTRO OTORRINOLARINGOLÓGICO",
+      "phone": "23401887",
+      "address": "Centro Médico Picasso, ubicado en Calle B N31-124 Av. Mariana de Jesús"
+  },
+  {
+        "id": 217,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "HOSPITAL SAN FRANCISCO",
+      "phone": "0998500574",
+      "address": "Sangolquí, Guayaquil y Av. Atahualpa 359 y, 171103 Quito"
+  },
+  {
+        "id": 218,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA POMASQUI",
+      "phone": "0981891188",
+      "address": "Av. Manuel Cordova Galarza S1-66 y Marieta de Veintimilla, Quito, Ecuador"
+  },
+  {
+        "id": 219,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLíNICA ADVENTISTA DE QUITO",
+      "phone": "(02)382-2610",
+      "address": "Av. 10 de Agosto N30-164 y Cuero y Caicedo, Quito, Ecuador."
+  },
+  {
+        "id": 220,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA DAME S.A.",
+      "phone": "(02)500-0110",
+      "address": "18 de Septiembre Oe5-116 y Av. Universitaria."
+  },
+  {
+        "id": 221,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA EL BATAN",
+      "phone": " (02)2445061",
+      "address": "Av.6 De Diciembre N43-11 Y Tomás De Berlanga"
+  },
+  {
+        "id": 222,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA LOS PINOS",
+      "phone": "0958936285",
+      "address": "Calle Elia Liut N4510 y Telégrafo primero."
+  },
+  {
+        "id": 223,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA DEL BOSQUE",
+      "phone": "0960538529",
+      "address": "Av.Edmundo Carvajal Oe5-167 Entre Psje.C Y D Subida Al Bosque Quito"
+  },
+  {
+        "id": 224,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLÍNICA MODERNA",
+      "phone": "(02)252-1200",
+      "address": "Francisco Javier Ascazubi E1-15 y Avenida 10 de Agosto"
+  }
+
+],
+
+
+"Hospitalario": [
+    {
+      "id": 1,
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "level": 3,
+      "provider": "HOSPITAL MONTE SINAI",
+      "phone": "07-2885595",
+      "address": "Av. Miguel Cordero 6‑111 y Av. Solano, Cuenca, Azuay, Ecuador"
+    },
+    {
+        "id": 2,
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "level": 4,
+      "provider": "CLINICA DE ESPECIALIDADES MEDICAS PAUCARBAMBA",
+      "phone": "072881988 / 0995815508",
+      "address": "Av. Paucarbamba 4‑138 y Santiago Carrasco, Cuenca, Azuay, Ecuador"
+    },
+    {
+        "id": 3,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 1,
+      "provider": "JUNTA DE BENEFICENCIA",
+      "phone": "04-2-593-700",
+      "address": null
+    },
+    {
+        "id": 4,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 3,
+      "provider": "HOSPITAL CLÍNICA PANAMERICANA",
+      "phone": "095 860 8974 / 098 432 8778",
+      "address": null
+    },
+    {
+        "id": 5,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 1,
+      "provider": "CLINICA ANGELES",
+      "phone": "0995738769",
+      "address": null
+    },
+    {
+      "id": 6,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 3,
+      "provider": "CLINICA REALMEDIC CENTRO MEDICO QUIRURJICO",
+      "phone": "099 548 4541",
+      "address": null
+    },
+    {
+        "id": 7,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 3,
+      "provider": "CLINICA SAINT JOSEPH",
+      "phone": "(04) 292-2861",
+      "address": null
+    },
+    {
+        "id": 8,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 2,
+      "provider": "CLINICA MILENIUM",
+      "phone": "04-2681434",
+      "address": null
+    },
+    {
+        "id": 9,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 2,
+      "provider": "CLINICA GUAYAQUIL S.A.",
+      "phone": "04-2563555 EXT. 403",
+      "address": null
+    },
+    {
+        "id": 10,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 2,
+      "provider": "HOSPITAL CLINICA SANTAMARIA",
+      "phone": "04-2404650 / WHATSAPP 0980892296 / HOSPITALIZACIÓN: 0983342724",
+      "address": null
+    },
+    {
+        "id": 11,
+      "province": "MANABÍ",
+      "city": "MANTA",
+      "level": 3,
+      "provider": "MANTA HOSPITAL CENTER",
+      "phone": "(05) 259-0420",
+      "address": "Av. 24 y Calle 15, Tarqui, Manta, Manabí, Ecuador"
+    },
+    {
+        "id": 12,
+      "province": "PICHINCHA",
+      "city": "CUMBAYÁ",
+      "level": 1,
+      "provider": "HOSPITAL DE LOS VALLES",
+      "phone": "02-2977900 / 1800825537",
+      "address": "Av. Interoceánica km 12.5 y Av. Florencia, Cumbayá, Quito, Pichincha, Ecuador"
+    },
+    {
+        "id": 13,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 2,
+      "provider": "CITIMED CLINICA QUIRURGICA",
+      "phone": "0986031234",
+      "address": "Av. Mariana de Jesús OE7‑02 y Nuño de Valderrama, Quito, Pichincha, Ecuador"
+    },
+    {
+        "id": 14,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 2,
+      "provider": "CLINICA ARTHROS",
+      "phone": "02-2906096 / 02-2906990",
+      "address": "Pasaje Los Ángeles E4‑257 y Alemania, Edificio Davinci, Quito, Pichincha, Ecuador"
+    },
+    {
+        "id": 15,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 2,
+      "provider": "CLINICA DAVINCI",
+      "phone": "02 475-5500",
+      "address": null
+    },
+    {
+        "id": 16,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 2,
+      "provider": "CLINICA ATLAS",
+      "phone": "099 509 1321",
+      "address": null
+    },
+    {
+        "id": 17,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 2,
+      "provider": "AXXIS HOSPITAL",
+      "phone": "02-3980100",
+      "address": null
+    },
+    {
+        "id": 18,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "CLÍNICA INFES",
+      "phone": "022923683 / 022921359 / 022921357 / 0990687888",
+      "address": "Isla San Cristóbal N44‑426 e Isla Seymour, Quito, Pichincha, Ecuador"  
+    },
+    {
+        "id": 19,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA DE ESPECIALIDADES MARIA AUXILIADORA",
+      "phone": "02-2291750",
+      "address": null
+    },
+    {
+        "id": 20,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA DEL BOSQUE",
+      "phone": "(02) 2432 083",
+      "address": "Av. Edmundo Carvajal OE5‑167 entre pasaje C y D, Subida al Bosque, Quito, Pichincha, Ecuador"
+    },
+    {
+        "id": 21,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA OLYMPUS",
+      "phone": "022292277 / 022292276 / 022294805 / 0983889460",
+      "address": null
+    },
+    {
+        "id": 22,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "NOVA CLINICA DEL VALLE",
+      "phone": "02-3945180 EXT.500 - 100 - 151 - 200 / WHATSAPP: 0983542942",
+      "address": null
+    },
+     {
+        "id": 23,
+      "province": "SANTO DOMINGO DE LOS TSÁCHILAS",
+      "city": "Santo Domingo de los Colorados",
+      "level": 4,
+      "provider": "HOSPITAL GENERAL CLINICA ARAUJO",
+      "phone": "098 023 2876",
+      "address": "Av. Tsáchila y Río Zamora, Santo Domingo de los Colorados, Ecuador"
+    },
+    {
+        "id": 24,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA DAME S.A.",
+      "phone": "(02) 500 0110",
+      "address": "18 de Septiembre Oe5-116 y Av. Universitaria"
+    },
+    {
+        "id": 25,
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "level": 1,
+      "provider": "CLINICA KENNEDY",
+      "phone": "(02) 515 1444",
+      "address": "Av. del Periodista y Callejón 11-A, N.O Kennedy"
+    },
+  {
+    "id": 26,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 3,
+    "provider": "CLINICA LA PAZ",
+    "phone": "(07) 280-7046",
+    "address": "Av. Viracochabamba 2-84 y Guapondelig, Cuenca 010104"
+  },
+  {
+    "id": 27,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 3,
+    "provider": "HOSPITAL SAN JUAN DE DIOS",
+    "phone": "(07) 412-5046",
+    "address": "Manuel J Calle 1-59 y Av. Paucarbamba"
+  },
+  {
+    "id": 28,
+    "province": "AZUAY",
+    "city": "CUENCA",
+    "level": 3,
+    "provider": "HOSPITAL DEL RIO",
+    "phone": "(07) 245-9553",
+    "address": "Av. 24 de Mayo y Av. de las Américas"
+  },
+  {
+    "id": 29,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 4,
+    "provider": "CLÍNICA HOSPITAL SAN JOSÉ",
+    "phone": "(07) 258-4072",
+    "address": "Juan De Salinas Y Sucre, Loja, Ecuador"
+  },
+  {
+    "id": 30,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "MEDIHOSPITAL",
+    "phone": "(07) 395-0500",
+    "address": "Av. Eugenio Espejo y Shuaras, Barrio El Dorado"
+  },
+  {
+    "id": 31,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "CLINICA SAN PABLO",
+    "phone": "(07) 254-6444",
+    "address": "Av. Pío Jaramillo y Thomas Alva Edison esq. (Sector La Argelia)"
+  },
+  {
+    "id": 32,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "HOSPITAL SAN GREGORIO",
+    "phone": "(07) 272-2090",
+    "address": "Calle Ambato 07-05 y Latacunga"
+  },
+  {
+    "id": 33,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "CLINICA SANTA INES",
+    "phone": "(07) 395-2000",
+    "address": "Leopoldo Palacios y Juan José Peña"
+  },
+  {
+    "id": 34,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLINICA DE LA MUJER",
+    "phone": " (02) 245-8000",
+    "address": "Av. Río Amazonas N39-216 y Gaspar de Villarroel."
+  },
+  {
+    "id": 35,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL DE ESPECIALIDADES SAN BARTOLO",
+    "phone": "0992745224",
+    "address": "Av. General Urdaneta y Mira"
+  },
+  {
+    "id": 36,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL PADRE JOSE CAROLLO",
+    "phone": " (02) 263-6660",
+    "address": "Av. Rumichaca S33-10 y Matilde Álvarez"
+  },
+  {
+    "id": 37,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL VOZANDES QUITO HVQ S.A. ",
+    "phone": " (02) 400-7100",
+    "address": "Villalengua Oe2-37 y Av. 10 de Agosto"
+  },
+  {
+    "id": 38,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "NORTHOSPITAL",
+    "phone": "0964224444",
+    "address": "Av. de la Prensa N58-154 y Vaca de Castro"
+  },
+  {
+    "id": 39,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "EMEDICENTER",
+    "phone": "0999963412",
+    "address": "Saraguro N61-71 y Av. Del Maestro"
+  },
+  {
+    "id": 40,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL DEL DIA SULAB",
+    "phone": "0984873694",
+    "address": "Huachi n64 46 y José Figueroa, Sector Quito Norte"
+  },
+  {
+    "id": 41,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "NOVACLINICA SANTA CECILIA",
+    "phone":  " (02) 394-9000",
+    "address": "Ignacio de Veintimilla E1-71 y Av. 10 de Agosto"
+  },
+  {
+    "id": 42,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLINICA DE ESPECIALIDADES TUMBACO",
+    "phone":  " (02) 237-4603",
+    "address": "S1- y, Gaspar de Carvajal & Fray Gonzalo de Vera"
+  },
+  {
+    "id": 43,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "MEDITROPOLI",
+    "phone":  " (02) 224-5672",
+    "address": "Av. Mariana de Jesús Oe-8"
+  },
+  {
+    "id": 44,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL AMERICANO",
+    "phone":  " 096 280 6903",
+    "address": "Av. Mariana de Jesús Oe3-161 y América. Sector Norte de Quito"
+  },
+  {
+    "id": 45,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLÍNICA INTEGRAL",
+    "phone":  " (02) 331-6193",
+    "address": "Pedregal N35-15 Y Hernandez de Giron"
+  },
+  {
+    "id": 46,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLINICA ST. THOMAS",
+    "phone":  " (02) 250-2865",
+    "address": "Inglaterra y Mariana de Jesús"
+  },
+  {
+    "id": 47,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "CLINICA SAN RAFAEL",
+    "phone":  "(02) 382-9500",
+    "address": "Avenida General Enriquez, e, Sangolquí"
+  },
+  {
+    "id": 48,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "CLINICA SAN VICENTE",
+    "phone":  "0987283333",
+    "address": "Pascuales, Pasaje salitre y General Leonidas Plaza"
+  },
+  {
+    "id": 49,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "CLÍNICA ALBORADA",
+    "phone":  "(04) 227-3400",
+    "address": "Mz. 737, Solar 5, 6to Retorno 17 N-E- Quilanga"
+  },
+  {
+    "id": 50,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "SURHOSPITAL",
+    "phone":  "(04) 259-0670",
+    "address": "José Mascote entre Cap. Nájera y Huancavilca"
+  },
+  {
+    "id": 51,
+    "province": "TUNGURAHUA",
+    "city": "AMBATO",
+    "level": 3,
+    "provider": "HOSPITAL DE ESPECIALIDADES CREHVITAL",
+    "phone":  "0979224167",
+    "address": "Calle José Robalino y Pedro Vásconez"
+  },
+  {
+    "id": 52,
+    "province": "COTOPAXI",
+    "city": "LATACUNGA",
+    "level": 3,
+    "provider": "HOSPITAL SAN FRANCISCO DE ASIS",
+    "phone":  "(03) 281-3384",
+    "address": "Fernando Sánchez de Orellana 11-37 y Av. Rumiñahui"
+  },
+  {
+    "id": 53,
+    "province": "COTOPAXI",
+    "city": "LATACUNGA",
+    "level": 3,
+    "provider": "ONEMEDIC",
+    "phone":  "0999003133",
+    "address": "Calle Belisario Quevedo, y, Latacunga"
+  },
+  {
+    "id": 54,
+    "province": "COTOPAXI",
+    "city": "LATACUNGA",
+    "level": 3,
+    "provider": "CLINICA PROVIDA",
+    "phone":  " 0990573564",
+    "address": "San Agustín, calle Márquez de Maenza y Sánchez de Orellana."
+  },
+  {
+    "id": 55,
+    "province": "IMBABURA",
+    "city": "IBARRA",
+    "level": 3,
+    "provider": "CENTRO MEDICO DE ESPECIALIDADES CASA BLANCA",
+    "phone":  "0990738887 / 062612809",
+    "address": "Av. José Mejía Lequerica N11-32 y Av. Cristóbal de Troya, Ibarra, Imbabura, Ecuador."
+  },
+  {
+    "id": 56,
+    "province": "IMBABURA",
+    "city": "IBARRA",
+    "level": 3,
+    "provider": "HOSPITAL CLINICA METROPOLITANA - IBARRA",
+    "phone":  "(06) 299-5530",
+    "address": "Av. Galo Plaza 17-04 y Calle S/N, Ibarra, Ecuador."
+  },
+  {
+    "id": 57,
+    "province": "IMBABURA",
+    "city": "OTAVALO",
+    "level": 3,
+    "provider": "HOSPITAL SAN JOSE",
+    "phone":  "(06) 292-6637",
+    "address": "Ecuador. 6, Piedrahita, C. Antonio José de Sucre 10 y, Otavalo."
+  },
+  {
+    "id": 58,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 1,
+    "provider": "HOSPITAL METROPOLITANO",
+    "phone":  "(02) 399-8000",
+    "address": "Avs. Mariana de Jesús y Occidental"
+  },
+  {
+    "id": 59,
+    "province": "PASTAZA",
+    "city": "PUYO",
+    "level": 2,
+    "provider": "GADYTRA",
+    "phone":  "0983166093",
+    "address": "Avs. Mariana de Jesús y Occidental"
+  },
+  {
+    "id": 60,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "CENTRO ONCOLOGICO GENESIS MED",
+    "phone":  "0987188606",
+    "address": "Martín Utreras y Mariana de Jesús N31-310"
+  },
+  {
+    "id": 61,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "CLINICA CITIMED",
+    "phone":  "(02)351-5101",
+    "address": "Av. Mariana de Jesús OE7- O2 Y Nuño de Valderrama, Quito, Ecuador"
+  },
+  {
+    "id": 62,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL PADRE JOSE CAROLLO UN CANTO A LA VIDA",
+    "phone":  "(02)263-6660",
+    "address": "Av. Rumichaca S33-10 y Matilde Álvarez"
+  },
+  {
+    "id": 63,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL VOZANDES QUITO HVQ S A ",
+    "phone":  "(02)400-7100",
+    "address": "Villalengua Oe2-37 y Av. 10 de Agosto"
+  },
+  {
+    "id": 64,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "HOSPITAL ALIANZA DEL ECUADOR",
+    "phone":  "(02)393-2450",
+    "address": "Francisco Alava Oe6-64 y San Gabriel, Quito 170147"
+  },
+  {
+    "id": 65,
+    "province": "MANABI",
+    "city": "MANTA",
+    "level": 3,
+    "provider": "HOSPICOR",
+    "phone":  "0994730064",
+    "address": "Calle 18 y Av. Manuel Medina Castro, Manta 130802"
+  },
+  {
+    "id": 66,
+    "province": "MANABI",
+    "city": "MANTA",
+    "level": 3,
+    "provider": "CENTRO DE ESPECIALIDADES ARBOLEDA",
+    "phone":  "0995111622",
+    "address": "Calle 17, entre y 38, Manta 130213"
+  },
+  {
+    "id": 67,
+    "province": "MANABI",
+    "city": "PEDERNALES",
+    "level": 3,
+    "provider": "CLINICA ARBOLEDA",
+    "phone":  "0995111622",
+    "address": "Via Chamanga, Av. Plaza Acosta, Pedernales"
+  },
+  {
+    "id": 68,
+    "province": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "city": "Santo Domingo de los Colorados",
+    "level": 3,
+    "provider": "HOSPITAL GENERAL CLINICA SANTIAGO",
+    "phone":  "(02)383-6370",
+    "address": "Av Quito 118 y Oranzonas. Santo Domingo de los Tsáchilas"
+  },
+  {
+    "id": 69,
+    "province": "LOJA",
+    "city": "LOJA",
+    "level": 3,
+    "provider": "HOSPITAL CLÍNICA SAN AGUSTIN HCSA",
+    "phone":  "(07)257-0314",
+    "address": "18 de noviembre 207-32y Azuay"
+  },
+  {
+    "id": 70,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 2,
+    "provider": "CLINICA PASTEUR",
+    "phone":  "02-2-992-400",
+    "address": "Av. Eloy Alfaro N29-248 e Italia"
+  },
+  {
+    "id": 71,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 3,
+    "provider": "HOSPITAL SANTA GEMA",
+    "phone":  "043729320",
+    "address": "Pedro Pablo Gomez Tama 130 y, Guayaquil 090314"
+  },
+  {
+    "id": 72,
+    "province": "PICHINCHA",
+    "city": "QUITO",
+    "level": 3,
+    "provider": "ONEMEDIC",
+    "phone":  "0999003133",
+    "address": "Calle Belisario Quevedo, y, Latacunga 050102"
+  },
+  {
+    "id": 73,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 1,
+    "provider": "OMNI HOSPITAL",
+    "phone":  "04-2-109-000 ",
+    "address": "Av. Juan Tanca Marengo, Calle 13E NE, Guayaquil, Ecuador."
+  },
+  {
+    "id": 74,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 1,
+    "provider": "HOSPITAL LUIS VERNAZA",
+    "phone":  "0984987867",
+    "address": "Loja No. 700 y Escobedo, Guayaquil, Ecuador."
+  },
+  {
+    "id": 75,
+    "province": "GUAYAS",
+    "city": "GUAYAQUIL",
+    "level": 1,
+    "provider": "HOSPITAL ALFREDO G. PAULSON",
+    "phone":  "0984987867",
+    "address": "Loja No. 700 y Escobedo, Guayaquil, Ecuador."
+  },
+    {
+        "id": 76,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 3,
+      "provider": "MEDICTROPOLI",
+      "phone": "02-392-2730",
+      "address": "José Plácido Caamaño & Juan Montalvo"
+    },
+    {
+        "id": 77,
+      "province": "LOJA",
+      "city": "LOJA",
+      "level": 3,
+      "provider": "CLINICA DE ESPECIALIDADES MOGROVEJO",
+      "phone": "099-590-2693",
+      "address": "18 de Noviembre entre Lourdes y Catacocha"
+    },
+    {
+        "id": 78,
+      "province": "EL ORO",
+      "city": "MACHALA",
+      "level": 3,
+      "provider": "TRAUMAHOSPITAL",
+      "phone": "097-976-9244",
+      "address": "P3P4+C82, Av. Circunvalación Nte., Machala"
+    },
+  {
+    "id": 79,
+    "province": "MANABI",
+    "city": "PORTOVIEJO",
+    "level": 4,
+    "provider": "PORTOVIEJO MEDICAL CLINIC",
+    "phone": "(05)-2441-778 / 098-910-2021",
+    "address": "Portoviejo, Vía Crucita kilómetro 1 1/2, junto al comando de la Policía Nacional"
+  },
+  {
+        "id": 80,
+      "province": "MANABI",
+      "city": "SAN VICENTE",
+      "level": 4,
+      "provider": "HOSPITAL BASICO CLINICA SAMARI",
+      "phone": "0981668629",
+      "address": "Calle Francisco Lozano y Manabí, San Vicente, Ecuador"
+  },
+  {
+        "id": 81,
+      "province": "SANTA ELENA",
+      "city": "SALINAS",
+      "level": 4,
+      "provider": "HOSPITAL GENERAL CLINICA GRANADOS",
+      "phone": "(04) 277-5576",
+      "address": "Calle 5ta E / Av 14 y 18. Cdla. Santa Paula Salinas, Santa Elena"
+  },
+  {
+        "id": 82,
+      "province": "SANTA ELENA",
+      "city": "SALINAS",
+      "level": 4,
+      "provider": "CLINICA LOJA",
+      "phone": "0990581804",
+      "address": "Av. Puerto Lucia y callejon 8, La Libertad, Santa Elena, Ecuador"
+  },
+  {
+        "id": 83,
+      "province": "LOS RIOS",
+      "city": "QUEVEDO",
+      "level": 4,
+      "provider": "HOSPITAL BASICO REVELO GRAY",
+      "phone": "0981453298 / 052753911",
+      "address": "Av. June Guzmán de Cortez & calle 14va, Quevedo."
+  },
+  {
+        "id": 84,
+      "province": "PASTAZA",
+      "city": "EL PUYO",
+      "level": 4,
+      "provider": "CENTRO DE ESPECIALIDADES MEDICAS MEDITECH",
+      "phone": "099 740 7880",
+      "address": "Av. Ceslao Marin y 27 de Febrero, Puyo, Ecuador"
+  },
+  {
+        "id": 85,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "HOSPITAL SAN FRANCISCO",
+      "phone": "0998500574",
+      "address": "Sangolquí, Guayaquil y Av. Atahualpa 359 y, 171103 Quito"
+  },
+  {
+        "id": 86,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA POMASQUI",
+      "phone": "0981891188",
+      "address": "Av. Manuel Cordova Galarza S1-66 y Marieta de Veintimilla, Quito, Ecuador"
+  },
+  {
+        "id": 87,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLíNICA ADVENTISTA DE QUITO",
+      "phone": "(02)382-2610",
+      "address": "Av. 10 de Agosto N30-164 y Cuero y Caicedo, Quito, Ecuador."
+  },
+  {
+        "id": 88,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA EL BATAN",
+      "phone": " (02)2445061",
+      "address": "Av.6 De Diciembre N43-11 Y Tomás De Berlanga"
+  },
+  {
+        "id": 89,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLINICA LOS PINOS",
+      "phone": "0958936285",
+      "address": "Calle Elia Liut N4510 y Telégrafo primero."
+  },
+  {
+        "id": 90,
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "level": 4,
+      "provider": "CLÍNICA MODERNA",
+      "phone": "(02)252-1200",
+      "address": "Francisco Javier Ascazubi E1-15 y Avenida 10 de Agosto"
+  }
+  ]
+}
