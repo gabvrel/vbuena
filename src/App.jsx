@@ -12,7 +12,7 @@ import FormsPage from './pages/FormsPage.jsx';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/vbuena/">
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="/contact" element={<Contact />} />
