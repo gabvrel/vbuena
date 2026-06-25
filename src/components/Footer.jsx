@@ -1,4 +1,8 @@
 import React, { useEffect, useState } from "react";
+import fbIcon from '../assets/images/fb_icon.png';
+import lnkinIcon from '../assets/images/lnkin_icon.png';
+import igWIcon from '../assets/images/ig_w_icon.png';
+import nivusoftlogo from '../assets/images/nivusoftlogo.png';
 
 export default function Footer() {
   const [showButton, setShowButton] = useState(false);
@@ -58,13 +62,13 @@ export default function Footer() {
             </li>
             <li className="flex gap-3 mt-2">
               <a href="https://www.facebook.com/VidaBuenaEcuadorUIO/" target="_blank" rel="noopener noreferrer">
-                <img src="/images/fb_icon.png" alt="Facebook" className="w-6 h-6" />
+                <img src={fbIcon} alt="Facebook" className="w-6 h-6" />
               </a>
               <a href="https://www.linkedin.com/company/vidabuena/" target="_blank" rel="noopener noreferrer">
-                <img src="/images/lnkin_icon.png" alt="LinkedIn" className="w-6 h-6" />
+                <img src={lnkinIcon} alt="LinkedIn" className="w-6 h-6" />
               </a>
               <a href="https://www.instagram.com/vidabuenaec/" target="_blank" rel="noopener noreferrer">
-                <img src="/images/ig_w_icon.png" alt="Instagram" className="w-6 h-6" />
+                <img src={igWIcon} alt="Instagram" className="w-6 h-6" />
               </a>
             </li>
           </ul>
@@ -81,7 +85,7 @@ export default function Footer() {
           rel="noopener noreferrer"
           className="group flex items-center justify-center gap-2 text-white text-sm mt-1 transition-all duration-300"
         >
-          <img src="/images/nivusoftlogo.png" alt="Nivusoft" className="w-6 h-6 transform transition-transform duration-300 group-hover:scale-110" />
+          <img src={nivusoftlogo} alt="Nivusoft" className="w-6 h-6 transform transition-transform duration-300 group-hover:scale-110" />
           <span className="group-hover:underline">Desarrollado por Nivusoft</span>
         </a>
       </div>

@@ -2,12 +2,27 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import "../css/Hero.css";
 import QuoteForm from "../components/QuoteForm";
+import carousel1 from '../assets/images/carousel1.jpeg';
+import carousel2 from '../assets/images/carousel2.jpeg';
+import carousel3 from '../assets/images/carousel3.jpeg';
+import carousel4 from '../assets/images/carousel4.jpeg';
 
 export default function Hero() {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const openModal = (e) => { e.preventDefault(); setIsModalOpen(true); };
   const closeModal = () => setIsModalOpen(false);
+
+  const carouselImages = [
+    carousel1,
+    carousel2,
+    carousel3,
+    carousel4,
+    carousel1,
+    carousel2,
+    carousel3,
+    carousel4,
+  ];
 
   return (
     <section className="hero-section" id="inicio">
@@ -64,14 +79,9 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.5 }}
           >
             <div className="carousel-container">
-              <img src="/images/carousel1.jpeg" alt="Familia feliz" />
-              <img src="/images/carousel2.jpeg" alt="Protección" />
-              <img src="/images/carousel3.jpeg" alt="Futuro" />
-              <img src="/images/carousel4.jpeg" alt="Salud" />
-              <img src="/images/carousel1.jpeg" alt="Familia feliz repeat" />
-              <img src="/images/carousel2.jpeg" alt="Protección repeat" />
-              <img src="/images/carousel3.jpeg" alt="Futuro repeat" />
-              <img src="/images/carousel4.jpeg" alt="Salud repeat" />
+              {carouselImages.map((src, index) => (
+                <img key={index} src={src} alt={`Slide ${index + 1}`} />
+              ))}
             </div>
           </motion.div>
         </div>

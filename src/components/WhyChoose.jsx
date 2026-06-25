@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import panecilloBg from '../assets/images/panecillo.png';
 
 export default function WhyChoose() {
   const benefits = [
@@ -12,7 +13,7 @@ export default function WhyChoose() {
 
   return (
     <section className="relative text-white py-16 px-4 overflow-hidden">
-      <div className="absolute inset-0 bg-cover bg-center z-0" style={{ backgroundImage: "url('/images/panecillo.png')" }} />
+      <div className="absolute inset-0 bg-cover bg-center z-0" style={{ backgroundImage: `url(${panecilloBg})` }} />
       <div className="absolute inset-0 bg-cyan-500 bg-opacity-50 z-0" />
 
       <div className="relative z-10 max-w-7xl mx-auto text-center">

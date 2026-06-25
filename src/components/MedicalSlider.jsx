@@ -1,33 +1,59 @@
 import React from "react";
 import "../css/medicalCarousel.css";
+import metroredLogo from '../assets/images/medicalnetwork/metrored.png';
+import novascLogo from '../assets/images/medicalnetwork/novasc.png';
+import simeLogo from '../assets/images/medicalnetwork/sime.png';
+import cSantiagoLogo from '../assets/images/medicalnetwork/c_santiago.jpg';
+import clinicaAdvLogo from '../assets/images/medicalnetwork/clinica_adv.png';
+import clinicaSrLogo from '../assets/images/medicalnetwork/clinica_sr.jpg';
+import corposanoLogo from '../assets/images/medicalnetwork/corposano.jpg';
+import aprofeLogo from '../assets/images/medicalnetwork/aprofe.jpg';
+import vallesLogo from '../assets/images/medicalnetwork/valles.jpg';
+import asistanetLogo from '../assets/images/medicalnetwork/asistanet.png';
+import biomedLogo from '../assets/images/medicalnetwork/biomed.jpg';
+import metropolitanoLogo from '../assets/images/medicalnetwork/metropolitano.png';
+import cMujerLogo from '../assets/images/medicalnetwork/c_mujer.jpg';
+import medexpertLogo from '../assets/images/medicalnetwork/medexpert.png';
+import medilinkLogo from '../assets/images/medicalnetwork/medilink.jpg';
+import northospitalLogo from '../assets/images/medicalnetwork/northospital.jpg';
+import pCarolloLogo from '../assets/images/medicalnetwork/p_carollo.png';
+import verisLogo from '../assets/images/medicalnetwork/veris.png';
+import dameLogo from '../assets/images/medicalnetwork/dame.jpg';
+import kennedyLogo from '../assets/images/medicalnetwork/C_Kennedy.png';
+import juntaLogo from '../assets/images/medicalnetwork/Junta_de_beneficiencia.jpeg';
+import praxmedLogo from '../assets/images/medicalnetwork/Praxmed.png';
+import clinicaInternacionalLogo from '../assets/images/medicalnetwork/Clinica_Internacional.png';
+import hospitalSanFransicoLogo from '../assets/images/medicalnetwork/Hospital San Fransico.png';
+import marcaMedicalScan4Logo from '../assets/images/medicalnetwork/Marca-Medical-Scan4.png';
+import logoMHCLogo from '../assets/images/medicalnetwork/Logo_MHC.png';
 
 const medicalPartners = [
-  { name: "Metrored", logo: "/images/medicalnetwork/metrored.png" },
-  { name: "Novaclinica Sta. Cecilia", logo: "/images/medicalnetwork/novasc.png" },
-  { name: "Sime", logo: "/images/medicalnetwork/sime.png" },
-  { name: "Clinica Santiago", logo: "/images/medicalnetwork/c_santiago.jpg" },
-  { name: "Clinica Adventista", logo: "/images/medicalnetwork/clinica_adv.png" },
-  { name: "Clinica San Rafael", logo: "/images/medicalnetwork/clinica_sr.jpg" },
-  { name: "Corposano", logo: "/images/medicalnetwork/corposano.jpg" },
-  { name: "Aprofe", logo: "/images/medicalnetwork/aprofe.jpg" },
-  { name: "H. de los Valles", logo: "/images/medicalnetwork/valles.jpg" },
-  { name: "Asistanet", logo: "/images/medicalnetwork/asistanet.png" },
-  { name: "Biomed", logo: "/images/medicalnetwork/biomed.jpg" },
-  { name: "Metropolitano", logo: "/images/medicalnetwork/metropolitano.png" },
-  { name: "Clinica de la Mujer", logo: "/images/medicalnetwork/c_mujer.jpg" },
-  { name: "Medexpert", logo: "/images/medicalnetwork/medexpert.png" },
-  { name: "Medilink", logo: "/images/medicalnetwork/medilink.jpg" },
-  { name: "Northospital", logo: "/images/medicalnetwork/northospital.jpg" },
-  { name: "Padre Carollo", logo: "/images/medicalnetwork/p_carollo.png" },
-  { name: "Veris", logo: "/images/medicalnetwork/veris.png" },
-  { name: "DAME", logo: "/images/medicalnetwork/dame.jpg" },
-  { name: "Clinica Kennedy", logo: "/images/medicalnetwork/C_Kennedy.png" },
-  { name: "Junta de Beneficiencia Guayaquil", logo: "/images/medicalnetwork/Junta_de_beneficiencia.jpeg" },
-  { name: "Praxmed", logo: "/images/medicalnetwork/Praxmed.png" },
-  { name: "Clinica Internacional", logo: "/images/medicalnetwork/Clinica_Internacional.png" },
-  { name: "Hospital San Fransisco", logo: "/images/medicalnetwork/Hospital San Fransico.png" },
-  { name: "Medical Scan", logo: "/images/medicalnetwork/Marca-Medical-Scan4.png" },
-  { name: "Manta Hospital Center", logo: "/images/medicalnetwork/Logo_MHC.png" },
+  { name: "Metrored", logo: metroredLogo },
+  { name: "Novaclinica Sta. Cecilia", logo: novascLogo },
+  { name: "Sime", logo: simeLogo },
+  { name: "Clinica Santiago", logo: cSantiagoLogo },
+  { name: "Clinica Adventista", logo: clinicaAdvLogo },
+  { name: "Clinica San Rafael", logo: clinicaSrLogo },
+  { name: "Corposano", logo: corposanoLogo },
+  { name: "Aprofe", logo: aprofeLogo },
+  { name: "H. de los Valles", logo: vallesLogo },
+  { name: "Asistanet", logo: asistanetLogo },
+  { name: "Biomed", logo: biomedLogo },
+  { name: "Metropolitano", logo: metropolitanoLogo },
+  { name: "Clinica de la Mujer", logo: cMujerLogo },
+  { name: "Medexpert", logo: medexpertLogo },
+  { name: "Medilink", logo: medilinkLogo },
+  { name: "Northospital", logo: northospitalLogo },
+  { name: "Padre Carollo", logo: pCarolloLogo },
+  { name: "Veris", logo: verisLogo },
+  { name: "DAME", logo: dameLogo },
+  { name: "Clinica Kennedy", logo: kennedyLogo },
+  { name: "Junta de Beneficiencia Guayaquil", logo: juntaLogo },
+  { name: "Praxmed", logo: praxmedLogo },
+  { name: "Clinica Internacional", logo: clinicaInternacionalLogo },
+  { name: "Hospital San Fransisco", logo: hospitalSanFransicoLogo },
+  { name: "Medical Scan", logo: marcaMedicalScan4Logo },
+  { name: "Manta Hospital Center", logo: logoMHCLogo },
 ];
 
 export default function MedicalSlider() {

@@ -1,9 +1,11 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import bgLanding from '../assets/images/bg_landing.png';
+import nosotrosImg from '../assets/images/nosotros.png';
 
 export default function About() {
   return (
-    <section className="relative bg-cover bg-center py-32" style={{ backgroundImage: `url('/images/bg_landing.png')` }}>
+    <section className="relative bg-cover bg-center py-32" style={{ backgroundImage: `url(${bgLanding})` }}>
       <motion.div
         initial={{ opacity: 0, x: -40 }}
         whileInView={{ opacity: 1, x: 0 }}
@@ -44,7 +46,7 @@ export default function About() {
           transition={{ duration: 0.8, ease: 'easeOut', delay: 0.2 }}
           className="flex justify-center px-4 md:px-0"
         >
-          <img src="/images/nosotros.png" alt="Equipo VidaSana" className="rounded-lg shadow-md max-w-full h-auto" />
+          <img src={nosotrosImg} alt="Equipo VidaSana" className="rounded-lg shadow-md max-w-full h-auto" />
         </motion.div>
 
         <motion.div

@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { NavLink } from "react-router-dom";
 import '../css/Navbar.css';
+import logoMain from '../assets/images/logo_main.png';
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -15,7 +16,7 @@ export default function Navbar() {
       <div className="flex items-center justify-between w-full">
 
         <a href="/" className="flex items-center gap-2">
-          <img src="/images/logo_main.png" alt="Vida Sana" className="h-20 w-auto object-contain" />
+            <img src={logoMain} alt="Vida Sana" className="h-20 w-auto object-contain" />
         </a>
 
         <button className="md:hidden text-3xl focus:outline-none" onClick={toggleMenu}>☰</button>

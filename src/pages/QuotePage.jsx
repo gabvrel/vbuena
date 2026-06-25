@@ -3,6 +3,8 @@ import QuoteVidaSana from '../components/QuoteVidaSana';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import QuoteForm from "../components/QuoteForm";
+import bgLanding from '../assets/images/bg_landing.png';
+import familyImg from '../assets/images/family.jpeg';
 
 export default function QuotePage() {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -19,7 +21,7 @@ export default function QuotePage() {
       <Navbar />
       <section
         className="bg-cover bg-center px-4 py-32 md:py-32"
-        style={{ backgroundImage: "url('/images/bg_landing.png')" }}
+        style={{ backgroundImage: `url(${bgLanding})` }}
       >
         <div className="text-center max-w-2xl mx-auto mb-10 md:mb-16 px-4">
           <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-cyan-600 mb-4 leading-snug">
@@ -40,7 +42,7 @@ export default function QuotePage() {
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-start px-2 sm:px-6">
           <div className="flex justify-center">
             <img
-              src="/images/family.jpeg"
+              src={familyImg}
               alt="Familia feliz"
               className="w-full max-w-[320px] sm:max-w-md rounded-lg shadow-md object-cover"
             />

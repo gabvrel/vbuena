@@ -3,6 +3,10 @@ import { motion } from "framer-motion";
 import SocialLinks from "../components/SocialLinks";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import bgLanding from '../assets/images/bg_landing.png';
+import mailIcon from '../assets/images/mail_icon.png';
+import phoneIcon from '../assets/images/phone_icon.png';
+import locationIcon from '../assets/images/location_icon.png';
 
 export default function Contact() {
   return (
@@ -11,7 +15,7 @@ export default function Contact() {
       <section
         id="contacto"
         className="py-16 px-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/images/bg_landing.png')" }}
+        style={{ backgroundImage: `url(${bgLanding})` }}
       >
         <motion.div
           initial={{ opacity: 0, x: 100 }}
@@ -53,7 +57,7 @@ export default function Contact() {
             Conéctate con nosotros por el canal que prefieras.</p>
 
             <motion.div className="flex items-start gap-3" whileHover={{ scale: 1.02 }}>
-              <img src="/images/mail_icon.png" alt="Correo" className="w-7 h-7 filter grayscale opacity-70" />
+              <img src={mailIcon} alt="Correo" className="w-7 h-7 filter grayscale opacity-70" />
               <div>
                 <h3 className="text-lg font-semibold">Correo:</h3>
                 <a href="mailto:info@vidasana.ec" className="text-cyan-600 hover:underline">
@@ -63,7 +67,7 @@ export default function Contact() {
             </motion.div>
 
             <motion.div className="flex items-start gap-3" whileHover={{ scale: 1.02 }}>
-              <img src="/images/phone_icon.png" alt="Teléfonos" className="w-6 h-6 filter grayscale opacity-70" />
+              <img src={phoneIcon} alt="Teléfonos" className="w-6 h-6 filter grayscale opacity-70" />
               <div>
                 <h3 className="text-lg font-semibold">Teléfonos:</h3>
                 <div className="text-gray-600 space-y-1">
@@ -75,7 +79,7 @@ export default function Contact() {
             </motion.div>
 
             <motion.div className="flex items-start gap-3" whileHover={{ scale: 1.02 }}>
-              <img src="/images/location_icon.png" alt="Dirección" className="w-6 h-6 filter grayscale opacity-70" />
+              <img src={locationIcon} alt="Dirección" className="w-6 h-6 filter grayscale opacity-70" />
               <div>
                 <h3 className="text-lg font-semibold">Dirección:</h3>
                 <p className="text-gray-600">Edificio Siglo XXI, Irlanda 1016 y, Quito 170518</p>

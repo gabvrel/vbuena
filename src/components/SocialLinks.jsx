@@ -1,10 +1,13 @@
 import React from "react";
+import igIcon from '../assets/images/ig_icon.png';
+import fbIconOrg from '../assets/images/fb_icon_org.png';
+import lnkinIconOrg from '../assets/images/lnkin_icon_org.png';
 
 export default function SocialLinks() {
   const socialLinks = [
-    { name: "Instagram", url: "https://www.instagram.com/vidabuenaec/", username: "@vidasanaec", icon: "/images/ig_icon.png" },
-    { name: "Facebook", url: "https://www.facebook.com/VidaBuenaEcuadorUIO/", username: "VidaSana EC", icon: "/images/fb_icon_org.png" },
-    { name: "LinkedIn", url: "https://www.linkedin.com/company/vidabuena/", username: "Vida Sana", icon: "/images/lnkin_icon_org.png" },
+    { name: "Instagram", url: "https://www.instagram.com/vidabuenaec/", username: "@vidasanaec", icon: igIcon },
+    { name: "Facebook", url: "https://www.facebook.com/VidaBuenaEcuadorUIO/", username: "VidaSana EC", icon: fbIconOrg },
+    { name: "LinkedIn", url: "https://www.linkedin.com/company/vidabuena/", username: "Vida Sana", icon: lnkinIconOrg },
   ];
 
   return (

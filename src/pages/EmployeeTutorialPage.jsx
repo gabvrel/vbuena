@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import bgLanding from '../assets/images/bg_landing.png';
 
 export default function Faq() {
   const [enviado, setEnviado] = useState(false);
@@ -53,7 +54,7 @@ export default function Faq() {
 
       <section
         className="py-16 px-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/images/bg_landing.png')" }}
+        style={{ backgroundImage: `url(${bgLanding})` }}
       >
         <motion.div
           initial={{ opacity: 0, x: 100 }}

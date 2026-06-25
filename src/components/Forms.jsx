@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import pdfIcon from '../assets/images/pdf_icon.png';
 
 const forms = [
   { title: "Formulario de enrolamiento", description: "Afíliate o actualiza tus datos de forma rápida y segura.", file: "/pdfs/formulario_de_enrolamiento_vida_buena.pdf" },
@@ -36,7 +37,7 @@ export default function Forms() {
             transition={{ duration: 0.5, delay: index * 0.1 }}
             className="flex items-center gap-4 p-6 rounded-lg shadow-md hover:shadow-xl transition-all duration-300 bg-gray-50 hover:bg-gray-100"
           >
-            <img src="/images/pdf_icon.png" alt="PDF Icon" className="w-12 h-12" />
+            <img src={pdfIcon} alt="PDF Icon" className="w-12 h-12" />
             <div>
               <h3 className="font-semibold text-lg text-gray-800">{form.title}</h3>
               <p className="text-gray-500 text-sm">{form.description}</p>

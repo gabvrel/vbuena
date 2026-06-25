@@ -1,43 +1,50 @@
 import React from "react";
 import { motion } from "framer-motion";
+import bgLanding from '../assets/images/bg_landing.png';
+import proteccion10000 from '../assets/images/proteccion10000.png';
+import Unico10000 from '../assets/images/Unico10000.png';
+import Predilecto20000 from '../assets/images/Predilecto20000.png';
+import Magno30000 from '../assets/images/Magno30000.png';
+import PlanesPYMES from '../assets/images/PlanesPYMES.png';
+import PlanesCorporativosalaMedida from '../assets/images/PlanesCorporativosalaMedida.png';
 
 export default function OurPlans() {
   const plans = [
     {
       title: "🛡 Protección 10.000",
-      image: "/images/proteccion10000.png",
+      image: proteccion10000,
       description: "Cobertura anual de hasta $10.000 en atención médica. Accede a una red abierta y cerrada de nivel 4, ideal para quienes buscan seguridad básica sin complicaciones. Tu salud protegida, siempre a tu alcance.",
     },
     {
       title: "🔒 Único 10.000",
-      image: "/images/Unico10000.png",
+      image: Unico10000,
       description: "El plan más eficiente y accesible. Cobertura de hasta $10.000 por evento (enfermedad, diagnóstico o incapacidad) en una red cerrada de nivel 2. Simple, claro y confiable.",
     },
     {
       title: "💙 Predilecto 20.000",
-      image: "/images/Predilecto20000.png",
+      image: Predilecto20000,
       description: "Un plan pensado para quienes quieren más tranquilidad. Cobertura de hasta $20.000 anuales, con acceso a red cerrada de nivel 3 y servicios médicos de calidad. Más respaldo, más bienestar.",
     },
     {
       title: "👑 Magno 30.000",
-      image: "/images/Magno30000.png",
+      image: Magno30000,
       description: "Nuestro plan más alto, exclusivo y completo. Cobertura de hasta $30.000 por enfermedad, diagnóstico o incapacidad, con acceso a nuestra Red Nivel 1, que incluye los hospitales más prestigiosos del país. Atención premium, sin límites innecesarios y con respaldo total.",
       highlight: "🟣 Porque cuando lo bueno no es suficiente, eliges MAGNO",
     },
     {
       title: "👥 Planes PYMES",
-      image: "/images/PlanesPYMES.png",
+      image: PlanesPYMES,
       description: "Diseñados para cuidar a tu equipo sin descuidar tus finanzas. Coberturas de $5.000, $10.000 y $20.000, adaptadas al tamaño de tu empresa. Fáciles de contratar, potentes para proteger.",
     },
     {
       title: "🏢 Planes Corporativos a la Medida",
-      image: "/images/PlanesCorporativosalaMedida.png",
+      image: PlanesCorporativosalaMedida,
       description: "Diseñamos planes exclusivos con coberturas integrales, beneficios ampliados y atención personalizada, adaptados a las necesidades de cada empresa. Incluyen servicios médicos, soluciones complementarias y soporte permanente. Protegemos lo más valioso de tu organización: tu talento humano.",
     },
   ];
 
   return (
-    <section className="py-24 px-6 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/images/bg_landing.png')" }}>
+    <section className="py-24 px-6 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `url(${bgLanding})` }}>
       <motion.h2
         initial={{ opacity: 0, y: -30 }}
         whileInView={{ opacity: 1, y: 0 }}
