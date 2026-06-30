@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import QuoteForm from "../components/QuoteForm";
 import bgLanding from '../assets/images/bg_landing.png';
-import familyImg from '../assets/images/family.jpeg';
+import familyImg from '../assets/images/family_2.jpeg';
 
 export default function QuotePage() {
   const [isModalOpen, setIsModalOpen] = useState(false);
