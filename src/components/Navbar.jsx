@@ -12,7 +12,7 @@ export default function Navbar() {
   const toggleDropdown = () => setDropdownOpen(!dropdownOpen);
 
   return (
-    <nav className="top-0 left-0 right-0 z-50 px-10 py-4">
+   <nav className="sticky top-0 left-0 right-0 z-50 px-10 py-4 bg-white">
       <div className="flex items-center justify-between w-full">
 
         <a href="/" className="flex items-center gap-2">
