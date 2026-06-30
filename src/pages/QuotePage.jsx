@@ -48,7 +48,7 @@ export default function QuotePage() {
             />
           </div>
 
-          <div className="bg-cyan-500 rounded-xl shadow-xl p-6 sm:p-8 w-full max-w-md mx-auto">
+          <div className="bg-[rgb(0,60,98)] rounded-xl shadow-xl p-6 sm:p-8 w-full max-w-md mx-auto">
             <p className="text-gray-50 py-2">Cotiza el valor de tu plan mensual aqui.</p>
             <QuoteVidaSana />
           </div>
