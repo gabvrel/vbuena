@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import bgLanding from '../assets/images/bg_landing.png';
-import nosotrosImg from '../assets/images/nosotros_v2.png';
+import nosotrosImg from '../assets/images/nosotros.png';
 
 export default function About() {
   return (
